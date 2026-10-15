@@ -1,0 +1,63 @@
+{
+  "counts": {
+    "calculators": 88,
+    "tables": 11,
+    "pending": [
+      {
+        "name": "Administración de β-lactámicos IV (concentración y %T > CIM)",
+        "controller": "ATBInfusion"
+      },
+      {
+        "name": "Bacteriemia en neutropenia febril",
+        "controller": "BMDRRN"
+      },
+      {
+        "name": "BOSS-3 (bacteriemia en neoplasia hematológica)",
+        "controller": "BacterScores"
+      },
+      {
+        "name": "Meropenem (dosis en TRR)",
+        "controller": "MeroPipTazoDosing1"
+      },
+      {
+        "name": "Meropenem y piperacilina/tazobactam, dosis en TRR",
+        "controller": "MeroPipTazoDosing"
+      },
+      {
+        "name": "Piperacilina/tazobactam (dosis en TRR)",
+        "controller": "MeroPipTazoDosing2"
+      },
+      {
+        "name": "Vancomicina, ajuste de dosis",
+        "controller": "VancomycinAUC"
+      }
+    ],
+    "native": {
+      "LinezolidTDM": 720,
+      "SOFA2": 207,
+      "PhoenixScore": 300,
+      "SAPS3Score": 500,
+      "CARHEMATOTOX": 288,
+      "IncrementCPE": 32
+    }
+  },
+  "native_function_emulation_cases_passed": 2047,
+  "independent_math_cases_passed": 78,
+  "native_mac_app_results_received": 0,
+  "original_reference_template_downloaded": true,
+  "pending_results_import_checked": true,
+  "malformed_results_import_rejected": true,
+  "search_and_favorites_passed": true,
+  "renal_dose_table_passed": true,
+  "mobile_no_overflow": true,
+  "javascript_errors": [],
+  "external_requests": [],
+  "limitations": [
+    "No execution of complete macOS app in this Linux environment.",
+    "Emulation adapters replace selected SwiftUI state operations and libm calls.",
+    "Numerical agreement is not clinical validation.",
+    "Local file:// opening is blocked by the managed browser policy; checks used local HTTP."
+  ],
+  "user_reported_complete_rrt_cases": 1,
+  "user_reported_rrt_comparison": "Meropenem, estándar, TRRC, diuresis ≥500 mL/día, sin control de flujo visible: 1–1,5 g/día IC; coincide con Cal.MeropenemDose1. Contraste documental, separado de pruebas automatizadas."
+}

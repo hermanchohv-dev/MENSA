@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "app_version": "26.40 (344)",
+  "source": "Resultados transcritos de MensaGuide en macOS",
+  "cases": [
+    {
+      "id": "MAP",
+      "label": "PAM 120/60",
+      "inputs": {
+        "s": 120,
+        "d": 60
+      },
+      "expected": null,
+      "units": "mmHg",
+      "tolerance": 0.5
+    },
+    {
+      "id": "GlomerularFiltrationRate",
+      "label": "Cockcroft–Gault: hombre 60 a, 72 kg, Cr 1",
+      "inputs": {
+        "age": 60,
+        "w": 72,
+        "cr": 1,
+        "sex": 0
+      },
+      "expected": null,
+      "units": "mL/min",
+      "tolerance": 0.5
+    },
+    {
+      "id": "eGFR",
+      "label": "CKD-EPI 2021: hombre 50 a, Cr 1",
+      "equation": "CKD-EPI 2021 creatinina, sin raza (confirmar versión)",
+      "inputs": {
+        "age": 50,
+        "cr": 1,
+        "sex": 0,
+        "method": 0
+      },
+      "expected": null,
+      "units": "mL/min/1,73 m²",
+      "tolerance": 0.5
+    },
+    {
+      "id": "eGFR",
+      "label": "MDRD: hombre 50 a, Cr 1",
+      "equation": "MDRD-4 IDMS, sin factor racial (confirmar versión)",
+      "inputs": {
+        "age": 50,
+        "cr": 1,
+        "sex": 0,
+        "method": 1
+      },
+      "expected": null,
+      "units": "mL/min/1,73 m²",
+      "tolerance": 0.5
+    },
+    {
+      "id": "CalciumCorrection",
+      "label": "Calcio 8, albúmina 3",
+      "inputs": {
+        "ca": 8,
+        "method": 0,
+        "alb": 3
+      },
+      "expected": null,
+      "units": "mg/dL",
+      "tolerance": 0.05
+    },
+    {
+      "id": "FIB4Index",
+      "label": "FIB-4 50 a, AST 40, ALT 25, plaquetas 200",
+      "inputs": {
+        "age": 50,
+        "ast": 40,
+        "alt": 25,
+        "plt": 200
+      },
+      "expected": null,
+      "units": "índice",
+      "tolerance": 0.05
+    },
+    {
+      "id": "AnionGAP",
+      "label": "AG sin K ni corrección: Na 140, Cl 104, HCO3 24",
+      "inputs": {
+        "na": 140,
+        "cl": 104,
+        "hco": 24,
+        "useK": 0,
+        "useAlb": 0
+      },
+      "expected": null,
+      "units": "mmol/L",
+      "tolerance": 0.5
+    },
+    {
+      "id": "AUCLinezolid",
+      "label": "Linezolid ABC con Cmín 5 mg/L",
+      "inputs": {
+        "sample": 1,
+        "c": 5
+      },
+      "expected": null,
+      "units": "mg·h/L",
+      "tolerance": 0.5
+    },
+    {
+      "id": "AUCLinezolid",
+      "label": "Linezolid ABC con Cmáx 15 mg/L",
+      "inputs": {
+        "sample": 0,
+        "c": 15
+      },
+      "expected": null,
+      "units": "mg·h/L",
+      "tolerance": 0.5
+    },
+    {
+      "id": "LinezolidTDM",
+      "label": "Linezolid TDM: ≤65 a, FG90, 1200 mg/día, 70 kg, sin UCI/cirrosis; anotar % terapéutico",
+      "inputs": {
+        "older": 0,
+        "gfr": 90,
+        "dose": 1200,
+        "w": 70,
+        "icu": 0,
+        "cirr": 0
+      },
+      "expected": null,
+      "units": "% terapéutico",
+      "tolerance": 0.5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source": "Transcripción del usuario de la calculadora original Meropenem (dosis en TRR)",
+  "status": "Un caso TRRC estándar completo aportado por el usuario; resultado elevado todavía con entradas incompletas. No implica validación del módulo entero.",
+  "observations": [
+    {
+      "target": "Estándar",
+      "target_description": "Concentración de antibiótico libre ≥ 2 mg/L",
+      "maintenance": "1–1,5 g al día en IC",
+      "modality": "TRRC",
+      "urine": "≥ 500 mL/día",
+      "flow": "No aparece campo de flujo en esta pantalla",
+      "sled_duration": "No aplica (TRRC)",
+      "status": "Caso original aportado con entradas visibles completas; concordancia con clave recuperada Cal.MeropenemDose1",
+      "native_result_key": "Cal.MeropenemDose1"
+    },
+    {
+      "target": "Elevado",
+      "target_description": "Concentración de antibiótico libre ≥ 4–8 mg/L",
+      "maintenance": "3 g al día en IC",
+      "modality": null,
+      "urine": null,
+      "flow": null,
+      "sled_duration": null
+    }
+  ],
+  "confirmed_options": {
+    "target": [
+      "Estándar",
+      "Elevado"
+    ],
+    "modality": [
+      "TRRC",
+      "SLED"
+    ],
+    "urine": [
+      "≥ 500 mL/día",
+      "< 500 mL/día"
+    ]
+  },
+  "loading": "Dosis de carga 1 g en infusión de 30 min, seguido de mantenimiento en infusión continua (IC)",
+  "high_target_note": "Controlar los niveles de meropenem (umbral de toxicidad 45 mg/L)",
+  "missing": [
+    "Resultados para las otras tres combinaciones de objetivo y diuresis en TRRC",
+    "Entradas y resultados para SLED",
+    "Datos correspondientes de piperacilina/tazobactam"
+  ]
+}
