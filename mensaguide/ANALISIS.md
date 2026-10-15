@@ -51,3 +51,9 @@ El usuario transcribió dos resultados de la utilidad nativa: objetivo estándar
 Confirmación posterior del usuario: el resultado estándar de 1–1,5 g/día corresponde a TRRC. La diuresis y el flujo de ese caso continúan sin especificar; la confirmación no se extiende al resultado elevado.
 
 Confirmación adicional: caso estándar de meropenem, TRRC, diuresis ≥ 500 mL/día; el usuario indica que no aparece campo de flujo. Resultado 1–1,5 g/día en IC. Coincide con Cal.MeropenemDose1 de la función aislada recuperada, que devuelve esa clave en los tres índices internos de intensidad para esta combinación. Esto aporta un caso original completo según los controles visibles descritos, no valida el módulo entero. Se retira la exigencia de un flujo para este caso concreto.
+
+## Versión web 3: bibliografía y nombres comerciales
+
+Se conserva el orden relativo del contenido y se coloca el campo BIBLIOGRAPHY al final. La comprobación en navegador recorrió todas las fichas de antimicrobianos: las 200 con bibliografía la muestran una sola vez, al final. Las otras 75 no contienen ese campo y no se les inventan referencias.
+
+La búsqueda dispone de filtros por principio activo, nombre comercial y contenido completo. Normaliza acentos, mayúsculas y marcadores de formato. Las presentaciones proceden del campo TRADENAMES. El alias Tazocel para piperacilina/tazobactam procede de la transcripción anterior del usuario; se añade al índice y al resumen de resultados sin modificar las fichas originales. No se afirma cobertura de todas las marcas o países. Se probaron Harvoni, Isentress y Tazocel, selección de resultado, aislamiento del filtro de principio activo y vista móvil de 390 px sin desbordamiento ni errores JavaScript. No se han cambiado los cálculos.

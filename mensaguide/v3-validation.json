@@ -1,0 +1,15 @@
+{
+  "bibliography_last_in_all_drugs_with_references": {
+    "checked": 200,
+    "failures": []
+  },
+  "commercial_search_cases": [
+    "Harvoni → Ledipasvir",
+    "Isentress → Raltegravir",
+    "Tazocel → Piperacilina/tazobactam"
+  ],
+  "active_ingredient_search_passed": true,
+  "commercial_result_opens_drug_record": true,
+  "mobile_390px_no_overflow": true,
+  "javascript_errors": []
+}

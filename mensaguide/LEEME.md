@@ -15,3 +15,7 @@ Han pasado 2.047 comparaciones con funciones nativas aisladas mediante emulació
 Siete módulos siguen sin cálculo activo: administración de betalactámicos IV, bacteriemia en neutropenia febril, BOSS, las tres utilidades de dosis en TRR y ajuste de vancomicina. No se sustituyen por algoritmos supuestos. En TRR falta confirmar las opciones de flujo y sus unidades, además de resultados originales; las recomendaciones de las fichas no identifican esas opciones.
 
 Consulta ANALISIS.md y release-validation.json para el alcance y las limitaciones. No se ha podido probar aquí la apertura por doble clic: el navegador administrado bloquea file://. Las pruebas usaron HTTP local, sin solicitudes externas ni errores JavaScript en los recorridos comprobados.
+
+## Búsqueda y bibliografía — versión web 3
+
+En Antimicrobianos, selecciona «Nombre comercial» en «Buscar por» y escribe la marca. Selecciona «Principio activo» para limitar la consulta al nombre del medicamento, o «Todo el contenido» para buscar en la ficha completa. Los resultados muestran presentaciones comerciales. Se conservan los nombres disponibles en la versión de la base aportada; se añadió Tazocel como alias facilitado por el usuario, sin cambiar el texto clínico original. La bibliografía se sitúa al final de cada ficha.
