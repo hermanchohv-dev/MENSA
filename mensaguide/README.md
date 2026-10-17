@@ -43,3 +43,7 @@ Nueva entrega independiente: [MensaGuide-escritorio.html](MensaGuide-escritorio.
 ## Escritorio con fotografías de microorganismos
 
 Nueva descarga: [MensaGuide-escritorio-fotos.html](MensaGuide-escritorio-fotos.html). Conserva todas las herramientas de escritorio e incorpora una colección inicial de 18 imágenes en miniaturas y fichas, con visor ampliable y uso sin conexión. El filtro «Solo con fotografía» permite encontrarlas. Las demás fichas muestran que la imagen no está disponible. Créditos, licencia y cobertura en [FOTOGRAFIAS-MICROORGANISMOS.md](FOTOGRAFIAS-MICROORGANISMOS.md).
+
+## Búsqueda en libros aportados
+
+[Catálogo de imágenes localizadas en el Atlas de parasitología](IMAGENES-LOCALIZADAS-ATLAS.md): 33 fichas adicionales con candidatas, páginas y figuras. Esta entrega localiza imágenes; no incorpora ni publica las fotografías del libro y no cambia los HTML anteriores. Los PDF de Botero y Spicer superan el límite de transferencia de 32 MiB y siguen sin examinarse.
