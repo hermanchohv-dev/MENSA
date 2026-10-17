@@ -1,0 +1,17 @@
+{
+  "version": 5,
+  "drug_heading_cases": [
+    "Ledipasvir (Harvoni)",
+    "Harvoni (Ledipasvir)",
+    "Tazocel (Piperacilina/Tazobactam)",
+    "Nevirapina (Nevirapina EFG, Viramune)"
+  ],
+  "heading_above_print_button": true,
+  "favorite_toggle_preserves_heading": true,
+  "print_button_calls_browser_print": true,
+  "alternate_name_visible_in_print": true,
+  "mobile_390px_no_overflow": true,
+  "no_brand_not_invented": true,
+  "non_drug_heading_unchanged": true,
+  "javascript_errors": []
+}

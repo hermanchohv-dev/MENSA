@@ -25,3 +25,7 @@ En Antimicrobianos, selecciona «Nombre comercial» en «Buscar por» y escribe 
 El selector se llama «Buscar como» y presenta Principio activo (predeterminado), Nombre comercial y Todo el contenido. Los resultados muestran el nombre alternativo entre paréntesis: principio activo (marcas), o marca buscada (principio activo). Los nombres se extraen de las presentaciones originales y del alias Tazocel aportado por el usuario.
 
 El título se amplía de 25 a 100 px en escritorio y se ajusta en móvil. El menú tiene un marco redondeado con textura azul. Cada ficha prioriza dosis en adultos, dosis pediátrica, ajuste renal, excreción, hemodiálisis, TRRC y ECMO, después el resto del contenido disponible y finalmente bibliografía. No se inventan secciones ausentes.
+
+## Versión web 5: nombre alternativo en la ficha
+
+El encabezado situado encima de «Imprimir / PDF» utiliza el mismo criterio que los resultados: principio activo (marcas) al buscar por principio activo, o marca coincidente (principio activo) al buscar por nombre comercial. El nombre alternativo se presenta a continuación del principal y se adapta al ancho disponible. Se conserva al marcar favoritos y en impresión/PDF. Los nombres se obtienen de las presentaciones ya documentadas; no se añadieron marcas ni datos externos en esta entrega. Las fichas sin marcas documentadas no muestran paréntesis vacíos. Ver v5-validation.json para las comprobaciones.

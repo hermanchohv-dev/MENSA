@@ -1,4 +1,4 @@
-# MensaGuide para navegador — versión web 4
+# MensaGuide para navegador — versión web 5
 
 Descarga `MensaGuide.html` mediante **Download raw file** en GitHub y ábrelo en un navegador moderno. Es un archivo autónomo, sin dependencias remotas para las consultas y los cálculos implementados.
 
@@ -17,3 +17,9 @@ Incluye 1.961 registros españoles de MensaGuide 26.40 (344), 88 calculadoras y 
 Se comprobó el orden en las 275 fichas de antimicrobianos, la bibliografía al final en las 200 que la contienen, los dos modos de nombres y la ausencia de desbordamiento horizontal en anchos de 320, 390, 760, 1024 y 1440 px. Detalles en [v4-validation.json](v4-validation.json). No se han modificado los cálculos.
 
 Consulta [LEEME.md](LEEME.md) para el uso y [ANALISIS.md](ANALISIS.md) para el alcance completo. [release-validation.json](release-validation.json) conserva las pruebas de cálculo anteriores y las observaciones aportadas desde la app original.
+
+## Encabezado de la ficha — versión web 5
+
+Al abrir un medicamento desde una búsqueda por principio activo, el encabezado muestra `Ledipasvir (Harvoni)`. Si se busca por nombre comercial, muestra `Harvoni (Ledipasvir)`, incluyendo la marca coincidente. El nombre alternativo aparece junto al principal, encima de «Imprimir / PDF», y se conserva en la impresión. En pantallas estrechas puede pasar a la línea siguiente. Las fichas sin marcas documentadas conservan su nombre sin paréntesis vacíos.
+
+Se probaron ambos modos, favoritos, impresión y móvil sin errores JavaScript. Detalles en [v5-validation.json](v5-validation.json). No se modificaron datos clínicos ni cálculos.
