@@ -35,3 +35,7 @@ Se comprobaron 18.875 campos de texto contra la nueva SQLite, todos los destinos
 ## Propuesta de interfaz para valorar
 
 Disponible por separado en [MensaGuide-interfaz-prueba.html](MensaGuide-interfaz-prueba.html): menú móvil plegable, índice por medicamento, secciones plegables y cabecera compacta al desplazarse. La versión anterior sigue en MensaGuide.html. Consulta [INTERFAZ-PRUEBA.md](INTERFAZ-PRUEBA.md) para los detalles y la verificación.
+
+## Herramientas de escritorio
+
+Nueva entrega independiente: [MensaGuide-escritorio.html](MensaGuide-escritorio.html). Incorpora índice lateral fijo, comparación de dos fármacos, regreso a resultados conservando contexto, perfiles de lectura, búsqueda resaltada dentro de la ficha, historial e impresión selectiva. Detalles de uso y pruebas en [ESCRITORIO.md](ESCRITORIO.md) y [desktop-review-validation.json](desktop-review-validation.json). El contenido clínico y los cálculos permanecen iguales a la entrega anterior.

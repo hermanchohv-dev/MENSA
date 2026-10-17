@@ -1,0 +1,23 @@
+{
+  "clinical_dataset_unchanged": true,
+  "rendered_drug_texts_and_order_unchanged": 275,
+  "return_preserves_query_mode_limit_and_scroll": true,
+  "sticky_drug_index": true,
+  "active_section_highlight_on_index_navigation": true,
+  "reading_profiles_passed": true,
+  "find_highlights_next_enter_and_clear": true,
+  "selective_print_and_state_restore": true,
+  "comparison_rows_match_source_text": true,
+  "comparison_supports_trade_names": true,
+  "comparison_rejects_same_drug": true,
+  "ambiguous_trade_name_requires_active_ingredient": true,
+  "history_persistent_capped_and_clearable": true,
+  "desktop_widths_no_overflow": [
+    1280,
+    1440,
+    1920
+  ],
+  "javascript_errors": [],
+  "actual_pdf_only_selected_section_and_source_date": true,
+  "comparison_column_headers_do_not_overlap_rows": true
+}
