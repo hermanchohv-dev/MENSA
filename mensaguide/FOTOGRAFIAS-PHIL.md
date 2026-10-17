@@ -1,0 +1,15 @@
+# Actualización con los ZIP PHIL aportados
+
+Descarga [MensaGuide-escritorio-PHIL.html](MensaGuide-escritorio-PHIL.html) mediante **Download raw file** y abre el archivo en el navegador. El HTML autónomo ocupa aproximadamente 51,5 MB. Incluye los archivos de imagen; las consultas no requieren conexión. Los enlaces externos de procedencia sí requieren red.
+
+Se recibieron 1.011 archivos JPEG y sus metadatos. Se seleccionaron 247 imágenes PHIL distintas y se incorporaron en 254 asociaciones con fichas: algunas imágenes representan un organismo incluido tanto en una ficha específica como en una de género o grupo. Las imágenes se añaden a las 86 fotografías anteriores, que conservan sus bytes y créditos. Hay 340 referencias fotográficas en 274 fichas de microorganismos; 188 fichas obtienen imagen por primera vez. Las otras 616 conservan el aviso de imagen no disponible.
+
+En las fichas con varias imágenes, el desplegable **Fotografía** permite cambiar entre las fuentes anteriores y PHIL. El visor ampliado muestra la fotografía seleccionada. La sección de leyenda original conserva la descripción completa en inglés, con la muestra, técnica e identificación indicadas en los metadatos aportados. Se muestran autoría, enlace PHIL e identificador. Las especies de ejemplo no identifican por sí mismas a todos los miembros del género o complejo.
+
+La selección se hizo por leyendas y revisión visual, no por el nombre de carpeta. Se omitieron escenas históricas, ilustraciones, controles, vectores sin el patógeno y asociaciones erróneas o ambiguas. Ejemplos: las imágenes de amebas hospedadoras no se asignan a mimivirus; los artefactos de plaquetas que imitan P. falciparum no se añaden como parásitos; las colonias de Propionibacterium no se asignan a priones; los coronavirus de ratón no se presentan como coronavirus humanos. Las carpetas de resultados contienen duplicados y coincidencias por términos históricos. No todas las imágenes no seleccionadas son incorrectas: esta entrega elige una imagen PHIL representativa por grupo revisado y conserva las demás fuera de la aplicación.
+
+Las fotografías se incrustan sin recortar, retocar, ampliar ni recomprimir. Se verifican sus hashes y dimensiones. Los archivos auxiliares de macOS se ignoran. No se ejecuta ningún HTML ni código del ZIP.
+
+La fuente de identificación y condiciones de uso son los metadatos PHIL aportados por el usuario. No fue posible contrastarlos en línea porque el acceso a CDC sigue bloqueado en este entorno. Se conservan literalmente las condiciones de uso aportadas y los créditos de cada imagen; no se les atribuye la licencia Creative Commons de OpenStax ni la del atlas anterior. Las condiciones están disponibles en la ficha y en [phil-image-credits.json](phil-image-credits.json).
+
+La base clínica y los algoritmos se mantienen iguales al HTML anterior. La verificación comprueba los 340 archivos de imagen, la cobertura, la búsqueda, el filtro, el selector de fuentes, el visor ampliado y la navegación a imágenes tras desconectar la red. Véase [phil-validation.json](phil-validation.json). No constituye una validación clínica de los contenidos o cálculos.

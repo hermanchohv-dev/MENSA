@@ -1,5 +1,7 @@
 # MensaGuide para navegador — versión web 5
 
+**Última entrega con PHIL:** [MensaGuide-escritorio-PHIL.html](MensaGuide-escritorio-PHIL.html), con 274 fichas con fotografía y selector de imágenes. Usa **Download raw file** (51,5 MB). Créditos y alcance en [FOTOGRAFIAS-PHIL.md](FOTOGRAFIAS-PHIL.md).
+
 **Nueva descarga con 86 fichas con fotografía:** [MensaGuide-escritorio-fotos-ampliado.html](MensaGuide-escritorio-fotos-ampliado.html). Pulsa **Download raw file** para descargar el HTML autónomo (33,4 MB).
 
 Descarga `MensaGuide.html` mediante **Download raw file** en GitHub y ábrelo en un navegador moderno. Es un archivo autónomo, sin dependencias remotas para las consultas y los cálculos implementados.

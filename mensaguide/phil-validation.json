@@ -1,0 +1,18 @@
+{
+  "phil_photographs_added": 254,
+  "total_photographs": 340,
+  "records_with_photographs": 274,
+  "new_records_with_photographs": 188,
+  "total_microorganism_records": 890,
+  "clinical_dataset_unchanged": true,
+  "previous_86_images_and_credits_preserved": true,
+  "all_340_images_decoded": true,
+  "embedded_images_sha256_verified": true,
+  "search_filter_multiple_photo_selector_viewer_close_and_escape": true,
+  "offline_photo_navigation_verified": true,
+  "external_requests_during_use": [],
+  "javascript_errors": [],
+  "identification_basis": "Supplied PHIL descriptions and visual review of selected images; CDC online access remains blocked",
+  "unique_phil_images_added": 247,
+  "counting_note": "254 PHIL associations with records; 247 distinct PHIL accessions. Total 340 image placements across 274 records."
+}
