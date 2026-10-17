@@ -1,5 +1,7 @@
 # MensaGuide para navegador — versión web 5
 
+**Nueva descarga con 86 fichas con fotografía:** [MensaGuide-escritorio-fotos-ampliado.html](MensaGuide-escritorio-fotos-ampliado.html). Pulsa **Download raw file** para descargar el HTML autónomo (33,4 MB).
+
 Descarga `MensaGuide.html` mediante **Download raw file** en GitHub y ábrelo en un navegador moderno. Es un archivo autónomo, sin dependencias remotas para las consultas y los cálculos implementados.
 
 ## Interfaz
@@ -51,3 +53,7 @@ Nueva descarga: [MensaGuide-escritorio-fotos.html](MensaGuide-escritorio-fotos.h
 ## Color Atlas of Diagnostic Microbiology, partes 1 y 2
 
 Ambos archivos se pudieron abrir. [Catálogo de imágenes localizadas](IMAGENES-LOCALIZADAS-DIAGNOSTICO.md): 68 fichas sin imagen actual con candidatas identificadas por parte, página y figura (29 bacterias, 25 hongos, 6 virus y 8 parásitos). Datos estructurados en [diagnostic-atlas-candidates.json](diagnostic-atlas-candidates.json). Se añade la localización, sin modificar el HTML ni republicar imágenes de los PDF en esta entrega.
+
+## Incorporación de las fotografías del atlas
+
+Se han integrado las 68 figuras del catálogo diagnóstico en una nueva entrega: [MensaGuide-escritorio-fotos-ampliado.html](MensaGuide-escritorio-fotos-ampliado.html). Conserva las 18 fotografías anteriores: 86 fichas con imagen en total. Incluye fuente, página, figura, miniaturas y visor ampliado sin conexión. Consulta [FOTOGRAFIAS-ATLAS-AMPLIADO.md](FOTOGRAFIAS-ATLAS-AMPLIADO.md) para los créditos y la verificación. Los catálogos anteriores documentan la fase previa de localización; [diagnostic-atlas-integrated.json](diagnostic-atlas-integrated.json) registra la incorporación efectiva.

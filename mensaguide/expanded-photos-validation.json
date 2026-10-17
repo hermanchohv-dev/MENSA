@@ -1,0 +1,15 @@
+{
+  "added_atlas_images": 68,
+  "total_images": 86,
+  "total_microorganism_records": 890,
+  "all_images_decode": true,
+  "embedded_hashes_verified": true,
+  "all_86_records_have_figure": true,
+  "clinical_database_unchanged": true,
+  "all_890_microorganism_clinical_sections_unchanged": true,
+  "filter_search_enlargement_escape_verified": true,
+  "offline_photo_navigation_verified": true,
+  "file_url_test": "blocked by managed Chromium policy",
+  "external_requests": [],
+  "javascript_errors": []
+}
