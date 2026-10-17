@@ -1,0 +1,890 @@
+Abiotrophia defectiva
+Acanthamoeba polyphaga mimivirus
+Acanthocheilonema
+Acanthoparyphium tyosenense
+Acanthotrema felis
+Acetobacter
+Achromobacter
+Acidaminococcus
+Acidomonas methanolica
+Acidovorax
+Acinetobacter
+Acremonium
+Acrophialophora
+Actinobacillus
+Actinobaculum
+Actinomadura
+Actinomortierella wolfii
+Actinomucor elegans
+Actinomyces
+Actinotignum
+Adenovirus
+Advenella incenata
+Aerococcus
+Aeromonas
+Afipia
+Aggregatibacter
+Aichi
+Alaria
+Albifimbria verrucaria
+Alcaligenes faecalis
+Alexandrium
+Algas productoras de toxinas
+Alistipes
+Alkanindiges hongkongensis
+Alloiococcus otitidis
+Alloprevotella tannerae
+Alloscardovia omnicolens
+Alongshan virus (ALSV)
+Alouattamyia baeri
+Alphavirus
+Alternaria
+Amebas de vida libre
+Amedibacterium intestinale
+Amycolatopsis benzoatilytica
+Anaerobiospirillum
+Anaerococcus
+Anaerotruncus colihominis
+Anaplasma
+Ancylostoma
+Angiostrongylus
+Anisakis
+Aphanoascus
+Apiotrichum
+Apophysomyces
+Aquamicrobium terrae
+Aquaspirillum
+Arbovirus
+Arcanobacterium haemolyticum
+Arcobacter
+Arenavirus
+Armillifer
+Arsenicicoccus cauae
+Arsenophonus nasoniae
+Arthrinium
+Arthrobacter
+Arthrocladium fulminans
+Arthrographis kalrae
+Arthropsis hispanica
+Artyfechinostomum malayanum
+Asaia
+Ascaris
+Aspergillus
+Astrovirus
+Atopobium
+Auchmeromyia senegalensis
+Aureimonas altamirensis
+Aureobasidium
+Auritidibacter ignavus
+Auxarthron
+Averyella dalhousiensis
+Avibacterium
+Azorhizobium caulinodans
+Azospirillum
+Babesia
+Bacillus anthracis
+Bacillus spp
+Bacteroides
+Balantioides coli
+Balneatrix alpica
+Banna
+Bartonella
+Bas-Congo (BASV)
+Basidiobolus
+Baylisascaris procyonis
+Beauveria
+Bergeyella
+Bertiella
+Bifidobacterium
+Bilophila wadsworthia
+Bipolaris
+Bisifusarium
+Bjerkandera adusta
+BK poliomavirus (BKPyV)
+Blastobotrys
+Blastocystis
+Blastomonas natatoria
+Blastomyces
+Blautia
+Bocavirus humano
+Bordetella
+Borealpox virus (BRPV)
+Borna
+Borrelia burgdorferi (grupo)
+Borrelia​ spp
+Brachybacterium
+Brachylaima
+Brachyspira
+Bradyrhizobium
+Brevibacillus
+Brevibacterium
+Brevundimonas
+Brucella
+Brugia
+Budvicia
+Bufavirus
+Bulleidia extructa
+Bunostomum phlebotomum
+Bunyamwera
+Bunyavirus
+Burkholderia cepacia complex
+Burkholderia mallei
+Burkholderia otras spp
+Burkholderia pseudomallei (grupo)
+Buttiauxella
+Butyribacter intestini
+Butyricimonas
+Cache Valley virus
+Calliphora
+Calmette-Guérin, bacilo de
+Campylobacter
+Candida
+Canibacter oris
+Capillaria
+Capnocytophaga
+Cardiobacterium
+Cardiovirus
+Carnobacterium
+Catabacter hongkongensis
+Catonella morbi
+Caulobacter
+Cedecea
+Cellulomonas
+Cellulosimicrobium
+Centrocestus
+Cephalotrichum gorgonifer
+Ceriporia lacerata
+Chaetomium
+Chikungunya (CHIKV)
+Chitinophaga
+Chlamydia abortus
+Chlamydia pneumoniae
+Chlamydia psittaci
+Chlamydia trachomatis
+Chlorella
+Choanephora infundibulifera
+Chondrostereum purpureum
+Chordomyces antarcticum
+Chromobacterium
+Chryseobacterium
+Chrysomya
+Chrysosporium
+Cimex
+Citomegalovirus (CMV)
+Citrobacter
+Cladophialophora
+Cladosporium
+Clinostomum
+Clonorchis sinensis
+Clostridioides difficile
+Clostridium botulinum
+Clostridium spp
+Clostridium tetani
+Coccidioides
+Cochliomyia hominivorax
+Cokeromyces recurvatus
+Colletotrichum
+Collinsella
+Coltivirus
+Comamonas
+Conidiobolus
+Coniochaeta
+Coniosporium epidermidis
+Contracaecum osculatum
+Coprinopsis cinerea
+Cordylobia
+Coriomeningitis linfocitaria (LCMV)
+Coronavirus (humanos, MERS, SARS-CoV-1)
+Coronavirus SARS-CoV-2 (COVID-19)
+Corynebacterium
+Corynespora
+Cosavirus
+Cotia
+Coxiella burnetii
+Coxiella massiliensis
+Criibacterium bergeronii
+Crimea-Congo, virus de la fiebre hemorrágica (CCHFV)
+Cronobacter
+Cryptococcus neoformans y C. gattii
+Cryptococcus otras spp
+Cryptosporidium
+Cunninghamella
+Cupriavidus
+Curtobacterium
+Curvularia
+Cutaneotrichosporon
+Cuterebra
+Cutibacterium
+Cyberlindnera
+Cyclospora cayetanensis
+Cylindrocarpon
+Cyphellophora
+Cystoisospora belli
+Dandenong
+Delftia
+Demodex
+Dengue
+Dermabacter
+Dermatobia hominis
+Dermatophilus congolensis
+Desulfovibrio
+Dialister
+Diaporthe
+Dicrocoelium
+Dictyostelium polycephalum
+Didymella
+Dielma fastidiosa
+Dientamoeba fragilis
+Dietzia
+Dinophysis
+Dioctophyma renale
+Diphyllobothrium
+Diplogonoporus
+Dipylidium caninum
+Dirofilaria
+Diutina
+Dolosicoccus paucivorans
+Dolosigranulum pigrum
+Dracunculus medinensis
+Drosophila melanogaster
+Dyella japonica
+Dysgonomonas
+Echinochasmus
+Echinococcus granulosus
+Echinococcus multilocularis
+Echinococcus vogeli y E. oligarthrus
+Echinostoma
+Edwardsiella tarda
+Effusibacillus consociatus
+Eggerthella
+Eggerthia catenaformis
+Ehrlichia
+Eikenella
+Eisenbergiella tayi
+Elizabethkingia
+Emarellia
+Emergomyces
+Emericella
+Emmonsia
+Empedobacter
+Encefalitis equina
+Encefalitis japonesa (VEJ)
+Encefalitis por flavivirus
+Encefalitis transmitida por garrapatas (VETG) o centroeuropea
+Endolimax nana
+Enemella
+Engyodontium album
+Entamoeba histolytica
+Entamoeba spp
+Enterobacter
+Enterobius vermicularis
+Enterocloster
+Enterococcus
+Enterovirus
+Epicoccum
+Epidermophyton floccosum
+Eristalis tenax
+Erwinia
+Erysipelatoclostridium
+Erysipelothrix rhusiopathiae
+Escherichia coli
+Escherichia spp
+Estrella lausannensis
+Eubacterium
+Eurytrema pancreaticum
+Eustrongylides
+Eutrombicula. Neotrombicula
+Ewingella americana
+Exiguobacterium
+Exophiala
+Exserohilum
+Facklamia
+Falciformispora
+Fasciola
+Fasciolopsis buski
+Fastidiosipila sanguinis
+Fiebre aftosa
+Fiebre amarilla, virus (YFV)
+Fiebre del valle del Rift (RVF)
+Fiebre hemorrágica de Alkhurma (Alkhumra)
+Fiebre hemorrágica de Omsk
+Fiebre por garrapatas del Colorado
+Filifactor
+Finegoldia magna
+Flavonifractor plautii
+Fonsecaea
+Francisella tularensis y otras especies
+Franklinella schreckenbergeri
+Frederiksenia canicola
+Fusarium
+Fusobacterium
+Gallibacterium anatis
+Gambierdiscus toxicus
+Gambiomyces
+Gardnerella
+Gasterophilus
+Gastrodiscoides hominis
+Gemella
+Geomyces
+Geotrichum
+Giardia duodenalis
+Globicatella sanguinis
+Gloeostereum cimri
+Gloniopsis
+Gluconobacter
+Glutamicibacter
+Gnathostoma
+Gongylonema pulchrum
+Gordonia
+Gordonibacter pamelaeae
+Granulibacter bethesdensis
+Granulicatella
+Grimontia hollisae
+Gripe
+Gymnascella hyalinospora
+Gymnoascus dankaliensis
+Gymnophalloides seoi
+Haematobacter
+Haematomicrobium sanguinis
+Haematospirillum jordaniae
+Haemophilus ducreyi
+Haemophilus influenzae
+Haemophilus spp
+Hafnia
+Halicephalobus gingivalis
+Halomonas
+Haplorchis
+Hazenella coriacea
+Helcobacillus massiliensis
+Helcococcus
+Helicobacter
+Hendra (HeV)
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis D o delta
+Hepatitis E
+Hepatitis F
+Herbaspirillum
+Hermetia illucens
+Herpes B
+Herpesvirus humano tipo 1 y 2
+Herpesvirus humano tipo 6
+Herpesvirus humano tipo 7
+Herpesvirus humano tipo 8
+Heterophyes
+Heterophyopsis continua
+Histoplasma
+Holtiella tumoricola
+Hongkongmyces
+Hormonema dematioides
+Hortaea werneckii
+Huaxiibacter chinensis
+Humicola
+Hymenochaete porioides
+Hymenolepis
+Hyphopichia burtonii
+Hypoderma
+Ignatzschineria
+Ignavigranum ruoffiae
+Inermicapsifer madagascariensis
+Inmunodeficiencia de los simios (VIS)
+Inmunodeficiencia humana, virus de la (VIH-1 y VIH-2)
+Inquilinus
+Iodamoeba buetschlii
+Irpex lacteus
+Issatchenkia terricola
+Ixodes ricinus
+Janibacter
+JC poliomavirus (JCPyV)
+Jonquetella anthropi
+Karenia brevis
+Kazachstania
+Kerstersia
+Kingella
+Klebsiella
+Klebsiella granulomatis
+Kloeckera apiculata
+Kluyvera
+Kluyveromyces marxianus
+Kneiffiella palmae
+Knoxdaviesia
+Kocuria
+Kodamaea
+Kosakonia
+Kudoa septempunctata
+Kurthia
+Kyasanur forest (KFDV)
+Kytococcus
+Lacazia loboi
+Laceyella
+Lachancea fermentati
+Lactobacillus
+Lactococcus
+Lagochilascaris minor
+Langya virus (LayV)
+Laribacter hongkongensis
+Lasiodiplodia
+Lassa virus (LASV)
+Lautropia mirabilis
+Lawsonella clevelandensis
+Leclercia
+Legionella
+Leifsonia aquatica
+Leishmania spp
+Lelliottia
+Leminorella
+Leptocimex
+Leptosphaeria
+Leptospira
+Leptotrichia
+Leucobacter
+Leuconostoc
+Lichtheimia
+Linfotrópico de células T humano (HTLV)
+Linguatula serrata
+Listeria
+Loa loa
+Lodderomyces elongisporus
+Lomentospora
+Lophomonas blattarum
+Lophotrichus
+Lucilia
+Lujo
+Luteibacter anthropi
+Lysinibacillus
+Macracanthorhynchus
+Macrophomina phaseolina
+Madariaga virus
+Madurella
+Mageeibacillus indolicus
+Magnusiomyces
+Malassezia
+Mammomonogamus laryngeus
+Mannheimia
+Mansonella
+Massilia
+Meanderella rijsii
+Medicopsis romeroi
+Megaselia scalaris
+Megasphaera
+Megasporoporia setulosa
+Menangle
+Mesocestoides
+Metagonimus yokogawai
+Metapneumovirus humano (hMPV)
+Metarhizium anisopliae
+Methanobrevibacter
+Methylobacterium
+Methylorubrum
+Metorchis
+Micobacterias de crecimiento lento
+Micobacterias de crecimiento rápido
+Micobacterias no M. tuberculosis (MNT)
+Microascus
+Microbacterium
+Micrococcus
+Microcystis
+Microsphaeropsis
+Microsporidia
+Microsporum
+Mirmecridium schulzeri
+Mixta calida
+Mobiluncus
+Moellerella wisconsensis
+Mogibacterium
+Molluscum contagiosum virus
+Moniliformis moniliformis
+Moraxella
+Morganella morganii
+Morococcus cerebrosus
+Moryella indoligenes
+Mucor
+Murdochiella asaccharolytica
+Musca domestica
+Muyocopron laterale
+Mycobacterium avium complex
+Mycobacterium genavense
+Mycobacterium haemophilum
+Mycobacterium kansasii
+Mycobacterium leprae
+Mycobacterium marinum
+Mycobacterium mucogenicum (grupo)
+Mycobacterium scrofulaceum
+Mycobacterium simiae complex
+Mycobacterium smegmatis (grupo)
+Mycobacterium terrae complex
+Mycobacterium tuberculosis complex
+Mycobacterium ulcerans
+Mycobacteroides chelonae (grupo), M. fortuitum complex
+Mycoplasma genitalium
+Mycoplasma haemohominis
+Mycoplasma pneumoniae
+Mycoplasma spp
+Mycotypha
+Myriodontium keratinophilum
+Myroides
+Nannizzia
+Nannizziopsis
+Nanophyetus
+Necator americanus
+Necropsobacter
+Nectria haematococca
+Negativicoccus succinicivorans
+Neisseria gonorrhoeae
+Neisseria meningitidis
+Neisseria spp
+Neoascochyta desmazieri
+Neocucurbitaria
+Neodiplostomum seoulense
+Neoehrlichia mikurensis
+Neofusicoccum mangiferae
+Neorickettsia sennetsu
+Neosartorya
+Neoscytalidium
+Neotestudina rosatii
+Neurospora sitophila
+Nigrograna mackinnonii
+Nigrospora sphaerica
+Nipah virus (NiV)
+Nocardia
+Nocardiopsis
+Nodulisporium
+Nonomuraea
+Norovirus
+Novosphingobium
+Oblitimonas alkaliphila
+Ochrobactrum
+Ochroconis
+Odoribacter splanchnicus
+Oesophagostomum
+Oestrus ovis
+Oligella
+Olsenella
+Onchocerca
+Onychocola
+Ophidascaris robertsi
+Opisthorchis
+Orbivirus
+Orf virus y Pseudocowpox virus
+Oribacterium sinus
+Orientia
+Oropouche (OROV)
+Orthobunyavirus
+Orthohantavirus
+Orthonairovirus
+Orthoreovirus (reovirus)
+Paecilomyces
+Paenalcaligenes hominis
+Paenarthrobacter
+Paenibacillus
+Pandoraea
+Pannonibacter phragmitetus
+Pantoea
+Papilomavirus humanos (VPH)
+Parabacteroides
+Parachlamydia acanthamoebae
+Paracoccidioides
+Paracoccus
+Paraconiothyrium
+Paracremonium contagium
+Paraeggerthella hongkongensis
+Paragonimus
+Parainfluenza (HPIV)
+Parasarcophaga argyrostoma
+Parathyridaria percutanea
+Parechovirus humano
+Parenemella
+Parotiditis, virus de la
+Parvimonas micra
+Parvovirus humano 4/5
+Parvovirus humano B19
+Pasteurella
+Pediculus
+Pediococcus
+Pegivirus
+Pelecitus
+Penicillium
+Penidiella
+Peniophora incarnata
+Peptococcus niger
+Peptoniphilus
+Peptostreptococcus
+Perenniporia
+Peribacillus
+Peribunyaviridae
+Pestalotiopsis clavispora
+Peyronellaea gardeniae
+Peziza
+Pfiesteria piscicida
+Phaeoacremonium
+Phaeoisaria clematidis
+Phagicola
+Phanerochaete
+Phaneropsolus
+Phellinus
+Phialemoniopsis
+Phialemonium
+Phialophora
+Philophthalmus
+Phlebovirus
+Phocaeicola
+Phoma
+Phomopsis
+Phormia regina
+Photobacterium damselae
+Photorhabdus
+Phthirus pubis
+Phytobacter
+Pichia
+Picobirnavirus humano
+Piedraia hortae
+Piophila casei
+Pithomyces
+Plagiorchis
+Plasmodium falciparum
+Plasmodium knowlesi
+Plasmodium spp
+Plesiomonas shigelloides
+Pleurostoma
+Pleurostomophora
+Pluralibacter
+Pneumocystis jirovecii
+Podospora
+Poliomavirus (PyV)
+Poliovirus
+Polycytella hominis
+Porocephalus
+Porphyromonas
+Prevotella
+Priones
+Procerovum varium
+Propionibacterium
+Propionimicrobium lymphophilum
+Proteus
+Protochlamydia
+Prototheca
+Providencia
+Pseudocanariomyces
+Pseudochaetosphaeronema
+Pseudochrobactrum asaccharolyticum
+Pseudocitrobacter
+Pseudoclavibacter
+Pseudoflavonifractor capillosus
+Pseudoglutamicibacter
+Pseudomonas aeruginosa
+Pseudomonas spp
+Pseudonitzschia
+Pseudoramibacter alactolyticus
+Pseudostreptobacillus hongkongensis
+Pseudoterranova
+Pseudozyma
+Psychoda albipennis
+Psychrobacter
+Purpureocillium
+Pyemotes
+Pyrenochaeta
+Pythium
+Quaranfil quaranjavirus
+Rabia, virus de la
+Rahnella aquatilis
+Raillietiella hemidactyli
+Raillietina
+Ralstonia
+Raoultella
+Rarimicrobium hominis
+Rasamsonia
+Respiratorio sincitial (VRS)
+Rhabditis
+Rhabdochlamydia porcellionis
+Rhabdovirus
+Rhinocladiella
+Rhinoestrus purpureus
+Rhinosporidium seeberi
+Rhizobium radiobacter
+Rhizomucor
+Rhizopus
+Rhodococcus
+Rhodosporidiobolus
+Rhodotorula
+Rhytidhysteron
+Rickettsia conorii
+Rickettsia prowazekii
+Rickettsia spp
+Rickettsia typhi
+Rinovirus humano
+Robinsoniella peoriensis
+Rocahepevirus ratti
+Roseomonas
+Rotavirus
+Rothia
+Roussoella
+Rubéola
+Ruminococcus gnavus
+Saccharomyces
+Saccharomycopsis fibuligera
+Saccharothrix
+Saffold
+Saksenaea
+Salivirus
+Salmonella
+Sapovirus
+Sarampión, virus del
+Sarcina ventriculi
+Sarcocystis
+Sarcodexia lambens
+Sarcophaga
+Sarcoptes scabiei
+Sarocladium
+Scandinavium
+Scardovia
+Scedosporium
+Scenopinus fenestralis
+Scheffersomyces spartinae
+Schistosoma
+Schizophyllum
+Sciscionella marina
+Scopulariopsis
+Scytalidium
+Sedimentibacter hongkongensis
+Segniliparus
+Selenomonas
+SEN, virus
+Serratia
+Shewanella
+Shigella
+Simkania negevensis
+Slackia exigua
+Sneathia
+Solobacterium moorei
+Sparganum
+Spelotrema brevicaeca
+Sphingobacterium
+Sphingobium
+Sphingomonas
+Spirillum minus
+Spirometra
+Spiroplasma
+Spodiobacter cordis
+Sporobolomyces
+Sporolactobacillus laevolacticus
+Sporopachydermia cereana
+Sporosarcina newyorkensis
+Sporothrix
+Stachybotrys
+Staphylococcus aureus
+Staphylococcus lugdunensis
+Staphylococcus otros plasmocoagulasa-positiva
+Staphylococcus plasmocoagulasa-negativa (ECN)
+Stemphylium
+Stenotrophomonas
+Streptobacillus moniliformis
+Streptococcus agalactiae
+Streptococcus gallolyticus
+Streptococcus grupo viridans
+Streptococcus otras spp
+Streptococcus pneumoniae
+Streptococcus pyogenes
+Streptococcus suis
+Streptomyces
+Strongyloides
+Subramaniula asteroides
+Sutterella wadsworthensis
+Suttonella indologenes
+Syncephalastrum racemosum
+Taenia
+Talaromyces
+Tanapox virus
+Tannerella forsythia
+Tatumella
+Telmatoscopus albipunctatus
+Tepidimonas arfidensi
+Ternidens deminutus
+Terrisporobacter
+Tetratrichomonas
+Thelazia
+Thermophilibacter provencensis
+Thielavia
+Thogotovirus
+Thyridium oculorum
+Tilletiopsis minor
+Tintelnotia destructans
+Tioman
+Tissierella
+Torovirus humano
+Torque teno virus (TTV)
+Toscana, virus (TOSV)
+Toxicocladosporium
+Toxocara
+Toxoplasma gondii
+Trametes
+Trematosphaeria grisea
+Treponema otras spp
+Treponema pallidum
+Triadelphia
+Trichinella
+Trichoderma
+Trichomonas hominis
+Trichomonas vaginalis
+Trichophyton
+Trichosporon
+Trichostrongylus
+Trichuris trichiura
+Tritirachium oryzae
+Tropheryma whipplei
+Tropicoporus tropicalis
+Trueperella
+Trypanosoma brucei
+Trypanosoma cruzi
+Tsukamurella
+Tunga penetrans
+Turicella otitidis
+Turicibacter sanguinis
+Tyrophagus
+Ureaplasma
+Ustilago
+Usutu virus
+Vacuna de la viruela, virus
+Vagococcus
+Vandammella animalimorsus
+Varibaculum
+Varicela-zóster (VVZ)
+Veillonella
+Veronaea botryosa
+Verruconis gallopava
+Versteria rafei
+Verticillium
+Vibrio cholerae
+Vibrio spp
+Viruela de las vacas, virus
+Viruela de los monos, virus (MPXV)
+Viruela humana, virus
+Virus Bourbon (BRBV)
+Virus Chandipura (CHPV)
+Virus de Epstein-Barr (VEB)
+Virus de la Estomatitis vesicular (VSV)
+Virus de Marburgo (MARV)
+Virus del oeste del Nilo (WNV)
+Virus del síndrome de la fiebre grave con trombocitopenia (SFTSV)
+Virus Heartland (HRTV)
+Virus Powassan (POWV)
+Volvariella volvacea
+Waddlia chondrophila
+Wallemia sebi
+Weeksella
+Weissella
+Wickerhamiella
+Wickerhamomyces anomalus
+Williamsia
+Wohlfahrtia
+Wohlfahrtiimonas chitiniclastica
+Wuchereria bancrofti
+Xylaria
+Yaba monkey tumour virus y yaba-like disease
+Yarrowia lipolytica
+Yersinia pestis
+Yersinia spp
+Yokenella regensburgei
+Zika (ZIKV)
+Zimmermannella
+Ébola virus (EBOV)
