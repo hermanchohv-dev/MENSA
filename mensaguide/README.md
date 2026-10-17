@@ -39,3 +39,7 @@ Disponible por separado en [MensaGuide-interfaz-prueba.html](MensaGuide-interfaz
 ## Herramientas de escritorio
 
 Nueva entrega independiente: [MensaGuide-escritorio.html](MensaGuide-escritorio.html). Incorpora índice lateral fijo, comparación de dos fármacos, regreso a resultados conservando contexto, perfiles de lectura, búsqueda resaltada dentro de la ficha, historial e impresión selectiva. Detalles de uso y pruebas en [ESCRITORIO.md](ESCRITORIO.md) y [desktop-review-validation.json](desktop-review-validation.json). El contenido clínico y los cálculos permanecen iguales a la entrega anterior.
+
+## Escritorio con fotografías de microorganismos
+
+Nueva descarga: [MensaGuide-escritorio-fotos.html](MensaGuide-escritorio-fotos.html). Conserva todas las herramientas de escritorio e incorpora una colección inicial de 18 imágenes en miniaturas y fichas, con visor ampliable y uso sin conexión. El filtro «Solo con fotografía» permite encontrarlas. Las demás fichas muestran que la imagen no está disponible. Créditos, licencia y cobertura en [FOTOGRAFIAS-MICROORGANISMOS.md](FOTOGRAFIAS-MICROORGANISMOS.md).

@@ -1,0 +1,21 @@
+{
+  "embedded_original_jpegs": 18,
+  "microorganism_records_with_images": 18,
+  "total_microorganism_records": 890,
+  "unavailable_image_placeholders": 872,
+  "all_images_decoded_with_original_dimensions": true,
+  "image_file_sha256_matches_source": true,
+  "clinical_dataset_unchanged": true,
+  "microorganism_section_texts_unchanged": 890,
+  "all_images_have_subject_caption_source_author_and_license": true,
+  "genus_complex_and_synonym_labels_explicit": true,
+  "photo_filter_search_viewer_escape_and_favorites": true,
+  "javascript_errors": [],
+  "external_requests_during_use": [],
+  "image_source": "OpenStax Microbiology, pinned GitHub source with captions and CC BY-NC-SA 4.0 license",
+  "limitations": [
+    "Collection covers 18 of 890 records; others explicitly show no image.",
+    "Some images show cultures; composites and representative species are described.",
+    "No image is generated or substituted for an unverified species."
+  ]
+}
