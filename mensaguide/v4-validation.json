@@ -1,0 +1,31 @@
+{
+  "version": 4,
+  "drug_section_order": {
+    "records": 275,
+    "references": 200,
+    "failures": []
+  },
+  "desktop_brand_font_px": 100,
+  "previous_desktop_brand_font_px": 25,
+  "default_search": "Principio activo",
+  "search_options_order": [
+    "Principio activo",
+    "Nombre comercial",
+    "Todo el contenido"
+  ],
+  "active_and_commercial_titles_checked": [
+    "Ledipasvir (Harvoni)",
+    "Harvoni (Ledipasvir)",
+    "Isentress (Raltegravir)",
+    "Tazocel (Piperacilina/Tazobactam)",
+    "Viramune (Nevirapina)"
+  ],
+  "no_horizontal_overflow_widths": [
+    320,
+    390,
+    760,
+    1024,
+    1440
+  ],
+  "javascript_errors": []
+}

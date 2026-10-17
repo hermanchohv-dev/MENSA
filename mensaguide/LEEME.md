@@ -19,3 +19,9 @@ Consulta ANALISIS.md y release-validation.json para el alcance y las limitacione
 ## Búsqueda y bibliografía — versión web 3
 
 En Antimicrobianos, selecciona «Nombre comercial» en «Buscar por» y escribe la marca. Selecciona «Principio activo» para limitar la consulta al nombre del medicamento, o «Todo el contenido» para buscar en la ficha completa. Los resultados muestran presentaciones comerciales. Se conservan los nombres disponibles en la versión de la base aportada; se añadió Tazocel como alias facilitado por el usuario, sin cambiar el texto clínico original. La bibliografía se sitúa al final de cada ficha.
+
+## Interfaz — versión web 4
+
+El selector se llama «Buscar como» y presenta Principio activo (predeterminado), Nombre comercial y Todo el contenido. Los resultados muestran el nombre alternativo entre paréntesis: principio activo (marcas), o marca buscada (principio activo). Los nombres se extraen de las presentaciones originales y del alias Tazocel aportado por el usuario.
+
+El título se amplía de 25 a 100 px en escritorio y se ajusta en móvil. El menú tiene un marco redondeado con textura azul. Cada ficha prioriza dosis en adultos, dosis pediátrica, ajuste renal, excreción, hemodiálisis, TRRC y ECMO, después el resto del contenido disponible y finalmente bibliografía. No se inventan secciones ausentes.
