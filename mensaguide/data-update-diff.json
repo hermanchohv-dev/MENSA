@@ -1,0 +1,555 @@
+{
+  "previous": "26.40 (344)",
+  "new": "26.41 (345)",
+  "header_date_requested": "10/10/2026",
+  "identity": "ZUID where available; linked abbreviation name otherwise",
+  "content_changes": {
+    "antimicrobianos": {
+      "old_count": 275,
+      "new_count": 275,
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "identity": "100230",
+          "name": "Velpatasvir",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZCMAX",
+            "ZD_ADULT",
+            "ZHALF_LIFE",
+            "ZPROTEIN_BINDING",
+            "ZTRADENAMES"
+          ]
+        },
+        {
+          "identity": "100263",
+          "name": "Tebipenem",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZD_ADULT",
+            "ZD_RENAL_FAILURE",
+            "ZHALF_LIFE",
+            "ZSIDE_EFFECTS",
+            "ZTOXICITY_NEURO"
+          ]
+        },
+        {
+          "identity": "100249",
+          "name": "Anticuerpos monoclonales (Acm)⠄Plasma de convalecientes",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZD_TEXT"
+          ]
+        },
+        {
+          "identity": "100148",
+          "name": "Meropenem",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZD_ADULT",
+            "ZD_OBESE",
+            "ZDISSEMINATION_CNS",
+            "ZMECH_ACTION",
+            "ZMICS_GRAMNEGATIVE",
+            "ZMICS_GRAMPOSITIVE",
+            "ZPK_PD",
+            "ZSIDE_EFFECTS",
+            "ZTRADENAMES"
+          ]
+        },
+        {
+          "identity": "100200",
+          "name": "Rifabutina",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZINTERACTIONS_OTHER"
+          ]
+        },
+        {
+          "identity": "100233",
+          "name": "Zanamivir",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZSPECTRUM"
+          ]
+        },
+        {
+          "identity": "100172",
+          "name": "Oseltamivir",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZD_ADULT",
+            "ZD_CHILD",
+            "ZD_RENAL_FAILURE",
+            "ZHALF_LIFE",
+            "ZMECH_ACTION",
+            "ZTRADENAMES"
+          ]
+        },
+        {
+          "identity": "100108",
+          "name": "Favipiravir",
+          "fields": [
+            "ZD_ADULT",
+            "ZD_LIVER_FAILURE",
+            "ZEXCRETION",
+            "ZHALF_LIFE",
+            "ZSPECTRUM"
+          ]
+        },
+        {
+          "identity": "100079",
+          "name": "Dalbavancina",
+          "fields": [
+            "ZD_ADULT",
+            "ZPK_PD"
+          ]
+        }
+      ]
+    },
+    "microorganismos": {
+      "old_count": 890,
+      "new_count": 890,
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "identity": "200346",
+          "name": "Hepatitis C",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200015",
+          "name": "Actinobaculum",
+          "fields": [
+            "ZGENUS",
+            "ZNAME",
+            "ZOLD_NAMES",
+            "ZSPECIES"
+          ]
+        },
+        {
+          "identity": "200129",
+          "name": "Candida",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZSPECIES",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200141",
+          "name": "Cellulosimicrobium",
+          "fields": [
+            "ZINFECTION"
+          ]
+        },
+        {
+          "identity": "200474",
+          "name": "Mycobacterium avium complex",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200530",
+          "name": "Onchocerca",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZINCUBATION_PERIOD",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200489",
+          "name": "Mycobacterium ulcerans",
+          "fields": [
+            "ZALTERNATIVES",
+            "ZBIBLIOGRAPHY",
+            "ZDIAGNOSIS",
+            "ZINCUBATION_PERIOD",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200373",
+          "name": "Inmunodeficiencia humana, virus de la (VIH-1 y VIH-2)",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZSPECIES",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200457",
+          "name": "Microbacterium",
+          "fields": [
+            "ZINFECTION"
+          ]
+        },
+        {
+          "identity": "200149",
+          "name": "Chlamydia psittaci",
+          "fields": [
+            "ZINFECTION"
+          ]
+        },
+        {
+          "identity": "200827",
+          "name": "Virus del síndrome de la fiebre grave con trombocitopenia (SFTSV)",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZTRANSMISSION_MECH",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200324",
+          "name": "Gripe",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200188",
+          "name": "Crimea-Congo, virus de la fiebre hemorrágica (CCHFV)",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZINCUBATION_PERIOD",
+            "ZINFECTION",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200822",
+          "name": "Yersinia pestis",
+          "fields": [
+            "ZDIAGNOSIS",
+            "ZINCUBATION_PERIOD",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200145",
+          "name": "Chikungunya (CHIKV)",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZCOMMENTS",
+            "ZCONTAGIOUS_PERIOD",
+            "ZDIAGNOSIS",
+            "ZGEOGRAPHIC_DIST",
+            "ZINCUBATION_PERIOD",
+            "ZTRANSMISSION_MECH",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200040",
+          "name": "Alphavirus",
+          "fields": [
+            "ZGEOGRAPHIC_DIST",
+            "ZSPECIES"
+          ]
+        },
+        {
+          "identity": "200619",
+          "name": "Proteus",
+          "fields": [
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200019",
+          "name": "Actinotignum",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZSPECIES",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200344",
+          "name": "Hepatitis A",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZINFECTION"
+          ]
+        },
+        {
+          "identity": "200232",
+          "name": "Ébola virus (EBOV)",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZDIAGNOSIS",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200342",
+          "name": "Helicobacter",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200185",
+          "name": "Coxiella burnetii",
+          "fields": [
+            "ZDIAGNOSIS",
+            "ZINFECTION",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200756",
+          "name": "Thogotovirus",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZDIAGNOSIS",
+            "ZGEOGRAPHIC_DIST",
+            "ZINFECTION",
+            "ZSPECIES",
+            "ZTRANSMISSION_MECH",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200685",
+          "name": "Sarampión, virus del",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZINFECTION"
+          ]
+        },
+        {
+          "identity": "200124",
+          "name": "Burkholderia pseudomallei (grupo)",
+          "fields": [
+            "ZBIBLIOGRAPHY"
+          ]
+        },
+        {
+          "identity": "200733",
+          "name": "Streptococcus grupo viridans",
+          "fields": [
+            "ZINFECTION",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "200387",
+          "name": "Kluyvera",
+          "fields": [
+            "ZINFECTION"
+          ]
+        },
+        {
+          "identity": "200488",
+          "name": "Mycobacterium tuberculosis complex",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZDIAGNOSIS",
+            "ZTREATMENT"
+          ]
+        }
+      ]
+    },
+    "sindromes": {
+      "old_count": 109,
+      "new_count": 109,
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "identity": "300024",
+          "name": "Faringoamigdalitis",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZMICS_ROWS",
+            "ZOTHER_MEASURES"
+          ]
+        },
+        {
+          "identity": "300008",
+          "name": "Cistitis",
+          "fields": [
+            "ZMICS_ROWS"
+          ]
+        },
+        {
+          "identity": "300062",
+          "name": "Síndrome de Guillain-Barré (SGB)",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZCOMMENT_NAME",
+            "ZEXAMINATION_IMAGE",
+            "ZEXAMINATION_OTHER",
+            "ZEXAMINATION_STUDIES",
+            "ZMEASURE_ROWS",
+            "ZMICS_ROWS",
+            "ZOTHER_MEASURES",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "300049",
+          "name": "Neumonía",
+          "fields": [
+            "ZMICS_ROWS",
+            "ZTREATMENT_ROWS"
+          ]
+        },
+        {
+          "identity": "300058",
+          "name": "Sepsis y shock séptico",
+          "fields": [
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "300089",
+          "name": "Infección de una prótesis articular",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZOTHER_MEASURES"
+          ]
+        },
+        {
+          "identity": "300074",
+          "name": "Miocarditis",
+          "fields": [
+            "ZMICS_ROWS"
+          ]
+        },
+        {
+          "identity": "300035",
+          "name": "Infecciones odontógenas y enfermedad periodontal⠄Osteomielitis de la mandíbula",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "300052",
+          "name": "Otitis media⠄Mastoiditis⠄Otitis externa⠄Pericondritis auricular",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZMICS_ROWS"
+          ]
+        },
+        {
+          "identity": "300010",
+          "name": "Corioamnionitis",
+          "fields": [
+            "ZCOMMENT_NAME",
+            "ZEXAMINATION_IMAGE",
+            "ZEXAMINATION_STUDIES",
+            "ZMICS_ROWS",
+            "ZTREATMENT"
+          ]
+        },
+        {
+          "identity": "300032",
+          "name": "Fiebre y rabdomiólisis/hiper-CK-emia",
+          "fields": [
+            "ZMICS_ROWS"
+          ]
+        },
+        {
+          "identity": "300036",
+          "name": "Infección de un catéter IV⠄Fiebre por contaminación del líquido perfundido",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZMICS_ROWS"
+          ]
+        }
+      ]
+    },
+    "profilaxis": {
+      "old_count": 83,
+      "new_count": 83,
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "identity": "400079",
+          "name": "Contacto con sangre o fluidos biológicos, prevención de posibles infecciones",
+          "fields": [
+            "ZPROPHYLAXIS"
+          ]
+        },
+        {
+          "identity": "400017",
+          "name": "Enfermedades de transmisión sexual, prevención después de una violación",
+          "fields": [
+            "ZPROPHYLAXIS"
+          ]
+        },
+        {
+          "identity": "400016",
+          "name": "Enfermedades de transmisión sexual (prevención)",
+          "fields": [
+            "ZPROPHYLAXIS"
+          ]
+        },
+        {
+          "identity": "400053",
+          "name": "Infección por el VIH (profilaxis)",
+          "fields": [
+            "ZCOMMENTS",
+            "ZPROPHYLAXIS"
+          ]
+        }
+      ]
+    },
+    "vacunas": {
+      "old_count": 35,
+      "new_count": 35,
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "identity": "500033",
+          "name": "Virus respiratorio sincitial, vacunación",
+          "fields": [
+            "ZBIBLIOGRAPHY",
+            "ZTEXT12"
+          ]
+        }
+      ]
+    },
+    "aislamiento": {
+      "old_count": 4,
+      "new_count": 4,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "utilidades": {
+      "old_count": 107,
+      "new_count": 108,
+      "added": [
+        {
+          "identity": "700115",
+          "name": "Candida score"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "abreviaturas": {
+      "old_count": 458,
+      "new_count": 458,
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+}

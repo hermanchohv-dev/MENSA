@@ -1,0 +1,14 @@
+{
+  "source_version": "26.41 (345)",
+  "records": 1962,
+  "original_text_fields_compared": 18875,
+  "all_source_text_fields_equal": true,
+  "all_internal_link_targets_exist": true,
+  "existing_ids_preserved": true,
+  "requested_header_date": "10/10/2026",
+  "date_to_right_of_web_v5_on_desktop": true,
+  "regression_cases_from_26_40_passed": 2047,
+  "native_algorithms_26_41_revalidated": false,
+  "mobile_no_overflow": true,
+  "javascript_errors": []
+}

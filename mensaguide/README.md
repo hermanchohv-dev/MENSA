@@ -12,7 +12,7 @@ Descarga `MensaGuide.html` mediante **Download raw file** en GitHub y ábrelo en
 
 ## Alcance y verificación
 
-Incluye 1.961 registros españoles de MensaGuide 26.40 (344), 88 calculadoras y 11 tablas. Siete módulos de cálculo siguen pendientes. No es una versión oficial ni una réplica completa validada clínicamente.
+Incluye 1.962 registros españoles de MensaGuide 26.41 (345), 88 calculadoras y 11 tablas. Siete módulos de cálculo siguen pendientes. No es una versión oficial ni una réplica completa validada clínicamente.
 
 Se comprobó el orden en las 275 fichas de antimicrobianos, la bibliografía al final en las 200 que la contienen, los dos modos de nombres y la ausencia de desbordamiento horizontal en anchos de 320, 390, 760, 1024 y 1440 px. Detalles en [v4-validation.json](v4-validation.json). No se han modificado los cálculos.
 
@@ -23,3 +23,11 @@ Consulta [LEEME.md](LEEME.md) para el uso y [ANALISIS.md](ANALISIS.md) para el a
 Al abrir un medicamento desde una búsqueda por principio activo, el encabezado muestra `Ledipasvir (Harvoni)`. Si se busca por nombre comercial, muestra `Harvoni (Ledipasvir)`, incluyendo la marca coincidente. El nombre alternativo aparece junto al principal, encima de «Imprimir / PDF», y se conserva en la impresión. En pantallas estrechas puede pasar a la línea siguiente. Las fichas sin marcas documentadas conservan su nombre sin paréntesis vacíos.
 
 Se probaron ambos modos, favoritos, impresión y móvil sin errores JavaScript. Detalles en [v5-validation.json](v5-validation.json). No se modificaron datos clínicos ni cálculos.
+
+## Actualización de datos — 10/10/2026
+
+Se incorporó la base española de la nueva app aportada, versión 26.41 (345). La interfaz conserva «WEB - V5» y muestra a su derecha «Actualizado a 10/10/2026», según la fecha solicitada por el usuario.
+
+La comparación por identidad estable detecta cambios de texto en 9 antimicrobianos, 28 microorganismos, 12 síndromes, 4 profilaxis y 1 vacuna, más una nueva entrada de utilidad Candida score. El nuevo total es 1.962 registros; la nueva entrada reutiliza la calculadora CandidaScore ya implementada y no aumenta el número de algoritmos. Se preservan los identificadores de las fichas existentes para mantener enlaces y favoritos.
+
+Se comprobaron 18.875 campos de texto contra la nueva SQLite, todos los destinos de enlaces internos y la presentación móvil. Las 2.047 comparaciones de funciones nativas siguen pasando como regresiones de 26.40: no constituyen una nueva validación del ejecutable 26.41. Los cálculos web no se han modificado. Véanse [data-update-diff.json](data-update-diff.json) y [data-update-validation.json](data-update-validation.json).
