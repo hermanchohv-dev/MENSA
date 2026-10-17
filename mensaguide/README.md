@@ -31,3 +31,7 @@ Se incorporó la base española de la nueva app aportada, versión 26.41 (345). 
 La comparación por identidad estable detecta cambios de texto en 9 antimicrobianos, 28 microorganismos, 12 síndromes, 4 profilaxis y 1 vacuna, más una nueva entrada de utilidad Candida score. El nuevo total es 1.962 registros; la nueva entrada reutiliza la calculadora CandidaScore ya implementada y no aumenta el número de algoritmos. Se preservan los identificadores de las fichas existentes para mantener enlaces y favoritos.
 
 Se comprobaron 18.875 campos de texto contra la nueva SQLite, todos los destinos de enlaces internos y la presentación móvil. Las 2.047 comparaciones de funciones nativas siguen pasando como regresiones de 26.40: no constituyen una nueva validación del ejecutable 26.41. Los cálculos web no se han modificado. Véanse [data-update-diff.json](data-update-diff.json) y [data-update-validation.json](data-update-validation.json).
+
+## Propuesta de interfaz para valorar
+
+Disponible por separado en [MensaGuide-interfaz-prueba.html](MensaGuide-interfaz-prueba.html): menú móvil plegable, índice por medicamento, secciones plegables y cabecera compacta al desplazarse. La versión anterior sigue en MensaGuide.html. Consulta [INTERFAZ-PRUEBA.md](INTERFAZ-PRUEBA.md) para los detalles y la verificación.

@@ -1,0 +1,24 @@
+{
+  "clinical_dataset_identical_to_previous_html": true,
+  "drug_body_text_and_section_order_unchanged_records": 275,
+  "mobile_menu_toggle_escape_and_selection": true,
+  "mobile_drug_index_collapsed_initially": true,
+  "drug_index_opens_section_without_changing_route": true,
+  "index_target_below_fixed_header": true,
+  "initial_open_sections": [
+    "Adult dose",
+    "Pediatric dose",
+    "Renal adjustment"
+  ],
+  "open_close_all_and_keyboard": true,
+  "print_temporarily_expands_all_and_restores_state": true,
+  "header_compacts_on_scroll_and_expands_at_top": true,
+  "no_horizontal_overflow_widths": [
+    320,
+    390,
+    760,
+    1024,
+    1440
+  ],
+  "javascript_errors": []
+}
