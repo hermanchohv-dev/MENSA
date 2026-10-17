@@ -57,3 +57,7 @@ Ambos archivos se pudieron abrir. [Catálogo de imágenes localizadas](IMAGENES-
 ## Incorporación de las fotografías del atlas
 
 Se han integrado las 68 figuras del catálogo diagnóstico en una nueva entrega: [MensaGuide-escritorio-fotos-ampliado.html](MensaGuide-escritorio-fotos-ampliado.html). Conserva las 18 fotografías anteriores: 86 fichas con imagen en total. Incluye fuente, página, figura, miniaturas y visor ampliado sin conexión. Consulta [FOTOGRAFIAS-ATLAS-AMPLIADO.md](FOTOGRAFIAS-ATLAS-AMPLIADO.md) para los créditos y la verificación. Los catálogos anteriores documentan la fase previa de localización; [diagnostic-atlas-integrated.json](diagnostic-atlas-integrated.json) registra la incorporación efectiva.
+
+## Fotografías adicionales de Leboffe y Pierce
+
+[Paquete de siete fotografías extraídas](Fotografias-adicionales-Leboffe-2011.zip) de *A Photographic Atlas for the Microbiology Laboratory*, 4.ª edición (2011), aportado como publication_12_24710_198.pdf. Incluye Aeromonas hydrophila, Citrobacter spp., Clostridium botulinum, C. perfringens, C. septicum, Mycobacterium leprae y Yersinia pestis, con vista previa y créditos de página y figura. Se conserva la resolución incrustada en el PDF (171–282 píxeles de ancho), sin retoque ni ampliación artificial. Este paquete no modifica el HTML.
