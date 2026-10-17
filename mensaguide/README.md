@@ -47,3 +47,7 @@ Nueva descarga: [MensaGuide-escritorio-fotos.html](MensaGuide-escritorio-fotos.h
 ## Búsqueda en libros aportados
 
 [Catálogo de imágenes localizadas en el Atlas de parasitología](IMAGENES-LOCALIZADAS-ATLAS.md): 33 fichas adicionales con candidatas, páginas y figuras. Esta entrega localiza imágenes; no incorpora ni publica las fotografías del libro y no cambia los HTML anteriores. Los PDF de Botero y Spicer superan el límite de transferencia de 32 MiB y siguen sin examinarse.
+
+## Color Atlas of Diagnostic Microbiology, partes 1 y 2
+
+Ambos archivos se pudieron abrir. [Catálogo de imágenes localizadas](IMAGENES-LOCALIZADAS-DIAGNOSTICO.md): 68 fichas sin imagen actual con candidatas identificadas por parte, página y figura (29 bacterias, 25 hongos, 6 virus y 8 parásitos). Datos estructurados en [diagnostic-atlas-candidates.json](diagnostic-atlas-candidates.json). Se añade la localización, sin modificar el HTML ni republicar imágenes de los PDF en esta entrega.
