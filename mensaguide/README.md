@@ -1,5 +1,7 @@
 # MensaGuide para navegador — versión web 5
 
+**Última actualización:** [MensaGuide-escritorio-PHIL-actualizado.html](MensaGuide-escritorio-PHIL-actualizado.html), con 304 fichas con imágenes, 76 fotografías adicionales y selector de fuentes. Usa **Download raw file** (56,9 MB). Detalles en [FOTOGRAFIAS-PHIL-RECUPERADOS.md](FOTOGRAFIAS-PHIL-RECUPERADOS.md).
+
 **Última entrega con PHIL:** [MensaGuide-escritorio-PHIL.html](MensaGuide-escritorio-PHIL.html), con 274 fichas con fotografía y selector de imágenes. Usa **Download raw file** (51,5 MB). Créditos y alcance en [FOTOGRAFIAS-PHIL.md](FOTOGRAFIAS-PHIL.md).
 
 **Nueva descarga con 86 fichas con fotografía:** [MensaGuide-escritorio-fotos-ampliado.html](MensaGuide-escritorio-fotos-ampliado.html). Pulsa **Download raw file** para descargar el HTML autónomo (33,4 MB).

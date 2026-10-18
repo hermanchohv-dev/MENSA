@@ -8,7 +8,6 @@ Acidaminococcus
 Acidomonas methanolica
 Acidovorax
 Acrophialophora
-Actinobacillus
 Actinobaculum
 Actinomortierella wolfii
 Actinomucor elegans
@@ -40,7 +39,6 @@ Apophysomyces
 Aquamicrobium terrae
 Aquaspirillum
 Arbovirus
-Arcanobacterium haemolyticum
 Arcobacter
 Armillifer
 Arsenicicoccus cauae
@@ -61,7 +59,6 @@ Auxarthron
 Averyella dalhousiensis
 Azorhizobium caulinodans
 Azospirillum
-Balantioides coli
 Balneatrix alpica
 Banna
 Bartonella
@@ -92,9 +89,7 @@ Burkholderia otras spp
 Butyribacter intestini
 Butyricimonas
 Cache Valley virus
-Calliphora
 Canibacter oris
-Cardiobacterium
 Cardiovirus
 Carnobacterium
 Catabacter hongkongensis
@@ -116,7 +111,6 @@ Chryseobacterium
 Chrysomya
 Cimex
 Clinostomum
-Cochliomyia hominivorax
 Cokeromyces recurvatus
 Collinsella
 Coniochaeta
@@ -135,7 +129,6 @@ Crimea-Congo, virus de la fiebre hemorrágica (CCHFV)
 Cryptococcus otras spp
 Cupriavidus
 Curtobacterium
-Cuterebra
 Cyberlindnera
 Cylindrocarpon
 Cyphellophora
@@ -166,7 +159,6 @@ Dysgonomonas
 Echinochasmus
 Edwardsiella tarda
 Effusibacillus consociatus
-Eggerthella
 Eggerthia catenaformis
 Ehrlichia
 Eisenbergiella tayi
@@ -176,11 +168,9 @@ Emericella
 Empedobacter
 Encefalitis equina
 Encefalitis japonesa (VEJ)
-Endolimax nana
 Enemella
 Engyodontium album
 Enterocloster
-Enterovirus
 Epicoccum
 Eristalis tenax
 Erwinia
@@ -194,10 +184,8 @@ Eutrombicula. Neotrombicula
 Exiguobacterium
 Facklamia
 Fastidiosipila sanguinis
-Fiebre aftosa
 Fiebre amarilla, virus (YFV)
 Fiebre hemorrágica de Alkhurma (Alkhumra)
-Fiebre hemorrágica de Omsk
 Fiebre por garrapatas del Colorado
 Filifactor
 Finegoldia magna
@@ -233,7 +221,6 @@ Haplorchis
 Hazenella coriacea
 Helcobacillus massiliensis
 Helcococcus
-Helicobacter
 Hendra (HeV)
 Hepatitis A
 Hepatitis B
@@ -246,7 +233,6 @@ Hermetia illucens
 Herpes B
 Herpesvirus humano tipo 6
 Herpesvirus humano tipo 7
-Herpesvirus humano tipo 8
 Heterophyes
 Heterophyopsis continua
 Holtiella tumoricola
@@ -256,7 +242,6 @@ Huaxiibacter chinensis
 Humicola
 Hymenochaete porioides
 Hyphopichia burtonii
-Hypoderma
 Ignatzschineria
 Ignavigranum ruoffiae
 Inermicapsifer madagascariensis
@@ -265,14 +250,12 @@ Inquilinus
 Iodamoeba buetschlii
 Irpex lacteus
 Issatchenkia terricola
-Ixodes ricinus
 Janibacter
 JC poliomavirus (JCPyV)
 Jonquetella anthropi
 Karenia brevis
 Kazachstania
 Kerstersia
-Klebsiella granulomatis
 Kloeckera apiculata
 Kluyveromyces marxianus
 Kneiffiella palmae
@@ -284,7 +267,6 @@ Kudoa septempunctata
 Kurthia
 Kyasanur forest (KFDV)
 Kytococcus
-Lacazia loboi
 Laceyella
 Lachancea fermentati
 Lactobacillus
@@ -297,7 +279,6 @@ Lautropia mirabilis
 Lawsonella clevelandensis
 Leclercia
 Leifsonia aquatica
-Leishmania spp
 Lelliottia
 Leminorella
 Leptocimex
@@ -342,7 +323,6 @@ Mirmecridium schulzeri
 Mixta calida
 Mobiluncus
 Mogibacterium
-Molluscum contagiosum virus
 Moniliformis moniliformis
 Morococcus cerebrosus
 Moryella indoligenes
@@ -384,7 +364,6 @@ Nonomuraea
 Norovirus
 Novosphingobium
 Oblitimonas alkaliphila
-Ochroconis
 Odoribacter splanchnicus
 Oesophagostomum
 Oestrus ovis
@@ -392,7 +371,6 @@ Olsenella
 Onychocola
 Ophidascaris robertsi
 Orbivirus
-Orf virus y Pseudocowpox virus
 Oribacterium sinus
 Orientia
 Oropouche (OROV)
@@ -402,22 +380,18 @@ Paenalcaligenes hominis
 Paenarthrobacter
 Pandoraea
 Pannonibacter phragmitetus
-Papilomavirus humanos (VPH)
 Parabacteroides
 Parachlamydia acanthamoebae
 Paracoccus
 Paraconiothyrium
 Paracremonium contagium
 Paraeggerthella hongkongensis
-Paragonimus
 Parasarcophaga argyrostoma
 Parathyridaria percutanea
 Parechovirus humano
 Parenemella
 Parvimonas micra
 Parvovirus humano 4/5
-Parvovirus humano B19
-Pediculus
 Pediococcus
 Pegivirus
 Pelecitus
@@ -479,7 +453,6 @@ Pseudoterranova
 Pseudozyma
 Psychoda albipennis
 Purpureocillium
-Pyemotes
 Quaranfil quaranjavirus
 Rabia, virus de la
 Raillietiella hemidactyli
@@ -571,20 +544,17 @@ Torque teno virus (TTV)
 Toscana, virus (TOSV)
 Toxicocladosporium
 Trametes
-Treponema otras spp
 Triadelphia
 Trichomonas hominis
 Tritirachium oryzae
 Tropheryma whipplei
 Tropicoporus tropicalis
 Trueperella
-Trypanosoma cruzi
 Tsukamurella
 Tunga penetrans
 Turicella otitidis
 Turicibacter sanguinis
 Usutu virus
-Vacuna de la viruela, virus
 Vagococcus
 Vandammella animalimorsus
 Varibaculum
