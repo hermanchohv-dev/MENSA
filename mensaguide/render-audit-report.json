@@ -1,0 +1,92 @@
+{
+  "records_reviewed": 1962,
+  "published_versions_compared": 12,
+  "original_string_fields_compared": 19333,
+  "original_text_differences": [],
+  "remaining_empty_records": [],
+  "missing_rendered_text_fields": [],
+  "confirmed_fixes": [
+    {
+      "issue": "Calendar table reference omitted",
+      "records": 1,
+      "status": "fixed in preceding delivery and preserved"
+    },
+    {
+      "issue": "Syndrome column headings omitted",
+      "records": 45,
+      "status": "fixed"
+    },
+    {
+      "issue": "Original structural formula graphics excluded",
+      "records": 255,
+      "status": "restored"
+    }
+  ],
+  "utility_availability": {
+    "forms": 88,
+    "tables": 11,
+    "text_only": 1,
+    "pending": 8
+  },
+  "pending_utilities": [
+    {
+      "id": 19,
+      "name": "Administración de β-lactámicos IV (concentración y %T > CIM)"
+    },
+    {
+      "id": 22,
+      "name": "Bacteriemia en neutropenia febril"
+    },
+    {
+      "id": 91,
+      "name": "BOSS-3 (bacteriemia en neoplasia hematológica)"
+    },
+    {
+      "id": 108,
+      "name": "Candida score"
+    },
+    {
+      "id": 93,
+      "name": "Meropenem (dosis en TRR)"
+    },
+    {
+      "id": 104,
+      "name": "Meropenem y piperacilina/tazobactam, dosis en TRR"
+    },
+    {
+      "id": 18,
+      "name": "Piperacilina/tazobactam (dosis en TRR)"
+    },
+    {
+      "id": 62,
+      "name": "Vancomicina, ajuste de dosis"
+    }
+  ],
+  "limitations": [
+    "This is a data and rendering audit, not clinical validation of all algorithms or recommendations.",
+    "Eight native calculators remain unimplemented; Candida score was added to the source dataset with 26.41 and is included in the current pending count.",
+    "Twelve retained published editions with the 26.41 dataset were compared; this does not establish equivalence with every transient or unpublished draft.",
+    "Complex inline annotations may still retain source formatting markers.",
+    "CIMA destination availability remains unverified online because network access is blocked."
+  ],
+  "validation": {
+    "clinical_dataset_and_existing_621_images_unchanged": true,
+    "original_string_fields_compared": 19333,
+    "native_table_cells_compared": 134,
+    "matrix_tables_verified": 161,
+    "matrix_body_cells_preserved": 1437,
+    "syndrome_header_tables_restored": 45,
+    "native_molecular_images_recovered": 255,
+    "all_native_svg_bytes_match_original": true,
+    "all_255_svg_images_decoded": true,
+    "molecular_zoom_and_escape_verified": true,
+    "calendar_preserved": true,
+    "derived_antimicrobial_tables_verified": 10,
+    "antiseptic_table_available": true,
+    "cima_links_and_menu_icons_preserved": true,
+    "offline_rendering_verified": true,
+    "javascript_errors": [],
+    "external_requests": []
+  },
+  "html_bytes": 47275093
+}

@@ -1,0 +1,19 @@
+{
+  "clinical_dataset_and_existing_621_images_unchanged": true,
+  "original_string_fields_compared": 19333,
+  "native_table_cells_compared": 134,
+  "matrix_tables_verified": 161,
+  "matrix_body_cells_preserved": 1437,
+  "syndrome_header_tables_restored": 45,
+  "native_molecular_images_recovered": 255,
+  "all_native_svg_bytes_match_original": true,
+  "all_255_svg_images_decoded": true,
+  "molecular_zoom_and_escape_verified": true,
+  "calendar_preserved": true,
+  "derived_antimicrobial_tables_verified": 10,
+  "antiseptic_table_available": true,
+  "cima_links_and_menu_icons_preserved": true,
+  "offline_rendering_verified": true,
+  "javascript_errors": [],
+  "external_requests": []
+}

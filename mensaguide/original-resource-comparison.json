@@ -1,0 +1,1539 @@
+{
+  "original_sqlite_sha256": "188b434591918c12d2b8c106565f125fbcdc1d92230b091c94639a26db6479f6",
+  "original_string_fields_compared": 19333,
+  "differences": [],
+  "native_table_cells_compared": 134,
+  "structural_formula_images_recovered": 255,
+  "structural_formula_metadata": [
+    {
+      "id": 1,
+      "name": "Protionamida",
+      "sha256": "f2fb8933347fe4df2479a7d7888f3c96ce35c777f2b3e104798b41a682ddd116",
+      "bytes": 2362
+    },
+    {
+      "id": 2,
+      "name": "Ledipasvir",
+      "sha256": "d284484a7b2af9cdc395155562a7ce733edf7c8c4ba2fbe2acb9ea9ef5b7bea0",
+      "bytes": 8444
+    },
+    {
+      "id": 3,
+      "name": "Amodiaquina",
+      "sha256": "440903c67eb032c2d956c82cd07dabe7b89b5ab10a998847e22c67508b2276bf",
+      "bytes": 3729
+    },
+    {
+      "id": 4,
+      "name": "Anfotericina B complejo lipídico",
+      "sha256": "32abd35a20c80e35fdcb70b0c3669f97e25e8b7a2b5481030bf23421d2a94586",
+      "bytes": 14505
+    },
+    {
+      "id": 5,
+      "name": "Raltegravir",
+      "sha256": "baec7804f393c008f5dcdd82ccd6c6120160abd5ddbd25336b4a43de78ee4fba",
+      "bytes": 3524
+    },
+    {
+      "id": 6,
+      "name": "Pirimetamina",
+      "sha256": "da7f75dea83f8a669a765a2b59c8dd248936d24a78ad68d2efcaba4c4c59ab84",
+      "bytes": 2445
+    },
+    {
+      "id": 8,
+      "name": "Rifaximina",
+      "sha256": "a8c93a8907e4f49bfa65ec5307b1fdc767cc63f117ce20e9ad5a42ced598a981",
+      "bytes": 6316
+    },
+    {
+      "id": 9,
+      "name": "Albendazol",
+      "sha256": "02573deb190ef276b4e6039aba92334730077406d91b030d1f3ea35bd54cbf9d",
+      "bytes": 4716
+    },
+    {
+      "id": 10,
+      "name": "Dapsona (DDS)",
+      "sha256": "d49387ebc2a38f85d3dd0fcd8763992db7cff229b439fe7340b4fdbabfd26e28",
+      "bytes": 5785
+    },
+    {
+      "id": 11,
+      "name": "Estreptomicina",
+      "sha256": "f9436b29db255dcbbb6fb035280b307fc36acb9445441774992c70453d9b413e",
+      "bytes": 10659
+    },
+    {
+      "id": 13,
+      "name": "Nitrofurantoína",
+      "sha256": "75d5a99ef2099f259311e6b85cd21196b8dced991bde4b9499f2c2535e75ada7",
+      "bytes": 7421
+    },
+    {
+      "id": 15,
+      "name": "Proguanil",
+      "sha256": "7690f55925a24c4f43c59e13448f38914a099e274faaf248fb31bc1a80f66f4f",
+      "bytes": 3503
+    },
+    {
+      "id": 17,
+      "name": "Doripenem",
+      "sha256": "de50e5641c3f1cfbcb8eb037821ff3554da1299d7f491e6d464eea0258aff00b",
+      "bytes": 4831
+    },
+    {
+      "id": 14,
+      "name": "Ibrexafungerp",
+      "sha256": "54bd38c0d30dc3961323984c5aa342d3955a31e530bf34abc1e4a9f3d62bb780",
+      "bytes": 3932
+    },
+    {
+      "id": 19,
+      "name": "Entecavir",
+      "sha256": "5a9dfb6f1d9007f6f627af92cf9599cc884853de53268967037afd6d78f0e3a5",
+      "bytes": 2584
+    },
+    {
+      "id": 16,
+      "name": "Simnotrelvir/Ritonavir",
+      "sha256": "bcc3b295c9e226363bd23e375ea5192bc4735e54fbfb910df17e0d3b36dc9c83",
+      "bytes": 5955
+    },
+    {
+      "id": 18,
+      "name": "Emodepsida",
+      "sha256": "93b56083ce95ee3ddf78f0cab1a58cc1e6d0dae4252f4561db8b94b2c01e73b2",
+      "bytes": 12584
+    },
+    {
+      "id": 20,
+      "name": "Elvitegravir",
+      "sha256": "283695b20a60c9f13d73e0abf4cc4e1bbe45df28fa6704e9b70fb35355bc58cd",
+      "bytes": 3103
+    },
+    {
+      "id": 21,
+      "name": "Islatravir (ISL)",
+      "sha256": "08a8a0e011f6d636474197dd837efc0f1fd8945a58b18d95a73846e94a59c6e9",
+      "bytes": 2190
+    },
+    {
+      "id": 22,
+      "name": "Tigeciclina",
+      "sha256": "930b91d8e0671744003614e9f0138d7c49bd79258d8c00aeed41f4487f9314f5",
+      "bytes": 7728
+    },
+    {
+      "id": 23,
+      "name": "Cidofovir y Brincidofovir",
+      "sha256": "0fdd2646e6ee995dd06fa3c738dc87a3018880c424e09185d66aaa1aed66e279",
+      "bytes": 2899
+    },
+    {
+      "id": 24,
+      "name": "Eberconazol",
+      "sha256": "1c87bf3a0c253fe566c129bc11144281443107cc8f710c93f88bd688d4e33d08",
+      "bytes": 3523
+    },
+    {
+      "id": 25,
+      "name": "Cefazolina",
+      "sha256": "2e02a66d55745521cc6498ab0ab0e45f7f3bd21cff17245c51ee0e64071ab161",
+      "bytes": 6219
+    },
+    {
+      "id": 26,
+      "name": "Anfotericina B en nanocristales lipídicos (MAT2203)",
+      "sha256": "32abd35a20c80e35fdcb70b0c3669f97e25e8b7a2b5481030bf23421d2a94586",
+      "bytes": 14505
+    },
+    {
+      "id": 27,
+      "name": "Foscarnet",
+      "sha256": "d9b42d75003dc28ff4394a032f6f5bc19eefd216e9b110f6a71578915fd0b4c7",
+      "bytes": 1402
+    },
+    {
+      "id": 28,
+      "name": "Taurolidina",
+      "sha256": "652639c5b18072503b4518b6128ba76a1c96e4f076cc1a53b40c1058d5eade17",
+      "bytes": 5068
+    },
+    {
+      "id": 29,
+      "name": "Bacitracina",
+      "sha256": "28f24788d0312fa9c3b3aaf8b5e5f59ff575d251860f05064379428ed488b07b",
+      "bytes": 9350
+    },
+    {
+      "id": 31,
+      "name": "Zidovudina",
+      "sha256": "535b3a19d702034941516cd9c3853d21b68288cc5dc452500af7385bfeca51d5",
+      "bytes": 3847
+    },
+    {
+      "id": 30,
+      "name": "Etravirina",
+      "sha256": "fa3eed4f2884e8f3b5f783d849de8e427f8d6ef32ba5be26a88ef1585c89e1ab",
+      "bytes": 3717
+    },
+    {
+      "id": 32,
+      "name": "Tioconazol",
+      "sha256": "f1e26e5e5f374666eb90fee6e11b68379c5fe9437b8a5f5492d9e73dfb6cafb9",
+      "bytes": 4238
+    },
+    {
+      "id": 33,
+      "name": "Eravaciclina",
+      "sha256": "7025bd00aadb5329b8ac189edd7346fa8c6692770acfd287dc65e1fefa1f0364",
+      "bytes": 7473
+    },
+    {
+      "id": 34,
+      "name": "Cefepima",
+      "sha256": "ba43f7cf089d91fd4b8f6d4a18f5ed3ca62d444fa0db1ae914c08dd625d12b2a",
+      "bytes": 4775
+    },
+    {
+      "id": 35,
+      "name": "Nifurtimox",
+      "sha256": "b4dca227bb4fb50c173791155863c4e640fc9d5decd99f8be8b815f6199163a9",
+      "bytes": 7310
+    },
+    {
+      "id": 38,
+      "name": "Mecillinam (amdinocilina)",
+      "sha256": "cdd94ebe6bb7a86923b8eb5f85c2f69cadce8debf2336f7bd83ce376bfe57aef",
+      "bytes": 2497
+    },
+    {
+      "id": 37,
+      "name": "Bictegravir",
+      "sha256": "5f3c315edd49ec83c271f14cc873ff312a994868d35f6bdaefe864b7f4715380",
+      "bytes": 3352
+    },
+    {
+      "id": 36,
+      "name": "Ciclopirox olamina",
+      "sha256": "413af89d91d9a64f21850b610e50d1e6c9485124034fe4723585c49fe50589a2",
+      "bytes": 2045
+    },
+    {
+      "id": 39,
+      "name": "Tolnaftato",
+      "sha256": "10905a04f38a41188c8a2ca79cff98e753d3a8c65942beb5d409d888b5642cd3",
+      "bytes": 4158
+    },
+    {
+      "id": 40,
+      "name": "Pibrentasvir",
+      "sha256": "d8972072ed473490eeab59b3b72bc84ca54519fffe0e9a123fb6b1c9fe914dad",
+      "bytes": 10125
+    },
+    {
+      "id": 43,
+      "name": "Tedizolid",
+      "sha256": "5ebe673bcc779d8a5c695672413f46cb5d97e94608a37f8cfe08797ccd148e95",
+      "bytes": 4379
+    },
+    {
+      "id": 42,
+      "name": "Tianfenicol",
+      "sha256": "ce6600bfb165d53f670dcd2a78484383aad1d35525efdcb489225380bb8659e7",
+      "bytes": 3912
+    },
+    {
+      "id": 44,
+      "name": "Meropenem",
+      "sha256": "829c82c64396fdc30af0b9f033cacfbc2b2d000d973d547932f406e529b4bbde",
+      "bytes": 3464
+    },
+    {
+      "id": 46,
+      "name": "Baloxavir marboxil",
+      "sha256": "50a9e67701aca71d8df656b92c409add722778af18855430b6e9fd53a1b2f104",
+      "bytes": 11777
+    },
+    {
+      "id": 45,
+      "name": "Eritromicina",
+      "sha256": "f44b5dd219bde25537255bc50dec068f669c8ae9c374fc9013d52efd1bd3580f",
+      "bytes": 10855
+    },
+    {
+      "id": 47,
+      "name": "Voriconazol",
+      "sha256": "80dd990bbe21a0a46e386f481e2a44a456b8922178e212814ccfb7c09c7255ba",
+      "bytes": 5109
+    },
+    {
+      "id": 48,
+      "name": "Eflornitina",
+      "sha256": "509945f27c85732ad3d499801a986c781b83b33d1cd782fff7ca32cfabb53858",
+      "bytes": 5630
+    },
+    {
+      "id": 49,
+      "name": "Capreomicina",
+      "sha256": "9c65da7ae176af283877d7f4cea392b85e36f5ae143748575e0eb26a4521ea57",
+      "bytes": 6076
+    },
+    {
+      "id": 51,
+      "name": "Econazol",
+      "sha256": "8ab7fab2c8bf23ef787feef8fa577419857659bec5fdae0afecc1fd974fb75af",
+      "bytes": 3872
+    },
+    {
+      "id": 50,
+      "name": "Etionamida",
+      "sha256": "ef61010dc4b1e37960228b5a7a09e44aa4f0e783de6e06341c46784a19d156a2",
+      "bytes": 2234
+    },
+    {
+      "id": 52,
+      "name": "Nadifloxacino",
+      "sha256": "be4c2408481589c55390749f336739e633bfec23de780a7933176d37a30487ba",
+      "bytes": 5203
+    },
+    {
+      "id": 53,
+      "name": "Tobramicina",
+      "sha256": "11436d2ffcfd60102d70dac061035255d70edf345e3f518f924bc30fd2b42918",
+      "bytes": 3712
+    },
+    {
+      "id": 54,
+      "name": "Maraviroc",
+      "sha256": "11bbf8dcc39fbe5fc69f512a889c5d3f2e75d160d349d187ad75a6f6a1691df0",
+      "bytes": 3065
+    },
+    {
+      "id": 56,
+      "name": "Nevirapina",
+      "sha256": "43e58c5963bf849f7c4e646a10671f18ccef8e42eb1c496288701aef2921fb23",
+      "bytes": 4650
+    },
+    {
+      "id": 55,
+      "name": "Moxidectina",
+      "sha256": "7c1f640387db925a546eb3b3b38d70b93264555e96205ea16e102996602a7ad0",
+      "bytes": 10779
+    },
+    {
+      "id": 57,
+      "name": "Opelconazol",
+      "sha256": "ff0aaebb1cd1b8d0ec2d3a1d06f753f1b0552ce5d00a05d1ad7cf2990e74a95e",
+      "bytes": 2502
+    },
+    {
+      "id": 58,
+      "name": "Mupirocina",
+      "sha256": "a787d2c049d6f65c5e2375e08cef6675f277582a5b51a3ae10512b902ddab38d",
+      "bytes": 23858
+    },
+    {
+      "id": 59,
+      "name": "Bedaquilina",
+      "sha256": "5b423b1eccf0619bd7f63d62f069cd9b71baf3699f05b8c086f3af8b13f21597",
+      "bytes": 6941
+    },
+    {
+      "id": 60,
+      "name": "Trifluridina",
+      "sha256": "3a4a68f8a766cd7853b3ac6c2010560186b52f8c5df1e7ac44555ebc3a769ed2",
+      "bytes": 3473
+    },
+    {
+      "id": 62,
+      "name": "Bifonazol",
+      "sha256": "b3a9564ab3c4b2346f59a477d72e226519b26b9273c7e13a54996dc89e167cf5",
+      "bytes": 3132
+    },
+    {
+      "id": 64,
+      "name": "Mebendazol",
+      "sha256": "7bdf0ebd2b5f2137e03dafcb2c066c9903657fbea37589334b55f29e29d11754",
+      "bytes": 4881
+    },
+    {
+      "id": 63,
+      "name": "Remdesivir",
+      "sha256": "a684bdcbf98a7d7439efbcd39cb6c5a1d4910f07305438405968c841a750dfda",
+      "bytes": 7276
+    },
+    {
+      "id": 65,
+      "name": "Ivermectina",
+      "sha256": "809c1cfb9e35c2e58e627e05a57e6e26be775311ed1c1e1807bd460390da28ae",
+      "bytes": 4956
+    },
+    {
+      "id": 67,
+      "name": "Amoxicilina/Clavulánico",
+      "sha256": "b99c3143f685c25a95fe6059e660ba8835fda455d51ef1eec575455687c34564",
+      "bytes": 4203
+    },
+    {
+      "id": 66,
+      "name": "Piperacilina/Tazobactam",
+      "sha256": "e011fe3459f9a1a195f77a170359be6681b239d9910b5bfbe1b47538623dd8d0",
+      "bytes": 16822
+    },
+    {
+      "id": 68,
+      "name": "Ganciclovir (Valganciclovir)",
+      "sha256": "01876794beb24b071b1738e69d2ae32b0a7c94c29e210f8a954fbecdde33c9f2",
+      "bytes": 4060
+    },
+    {
+      "id": 69,
+      "name": "Clindamicina",
+      "sha256": "c5c8654fa1003130ef7dab4cea233fa344821ec9de6b65635f17b258fa12f2e6",
+      "bytes": 6638
+    },
+    {
+      "id": 70,
+      "name": "Midecamicina",
+      "sha256": "4ee9e9a6ae7c98ed16b1296bc263911336f3b55e36a7a5826c92439212ccdaab",
+      "bytes": 14061
+    },
+    {
+      "id": 72,
+      "name": "Ceftibuteno",
+      "sha256": "b9bb4c5d384330fc2007810b151a2c0a361d356bd7d6b6934199a6983b62e09d",
+      "bytes": 6949
+    },
+    {
+      "id": 71,
+      "name": "Tecovirimat",
+      "sha256": "e3a3a9108853d770ebede857597137c5d24fe18a9ec54007619b66fa3a3e08f2",
+      "bytes": 6153
+    },
+    {
+      "id": 74,
+      "name": "Tafenoquina",
+      "sha256": "c136916117163358b7edc4a1f9fce4b9aeb95898e22cd868e96e5803a2618b8e",
+      "bytes": 6581
+    },
+    {
+      "id": 73,
+      "name": "Molnupiravir",
+      "sha256": "528a64ef0cb4f4ec5f52604c5ffce17c3b1b34b58a96968c4d43216ef399cf18",
+      "bytes": 6250
+    },
+    {
+      "id": 75,
+      "name": "Velpatasvir",
+      "sha256": "efbf14444a629f7d2dbb354951bfa90994192645fec7acbdf75b2b7cbc6fe000",
+      "bytes": 6578
+    },
+    {
+      "id": 76,
+      "name": "Pritelivir",
+      "sha256": "f89a5bb313c9c7d56678dc088d9caba7b81dc5f4c750135b7e6cda9231a6d133",
+      "bytes": 4518
+    },
+    {
+      "id": 78,
+      "name": "Elbasvir",
+      "sha256": "398e2017747fb89af739f562a6ef679e1e6d3e1bec64e7ff36321207ab816902",
+      "bytes": 6622
+    },
+    {
+      "id": 79,
+      "name": "Caspofungina",
+      "sha256": "367a40c6a8c10131f061cb5d15c332d8680ac346c64fcfecc5865a033463849b",
+      "bytes": 14397
+    },
+    {
+      "id": 80,
+      "name": "Pironaridina/Artesunato",
+      "sha256": "a9355fe40e8bf2bcbfc14e9c93c24adf86ef84dac382fdc03a2cb7d41a452f3e",
+      "bytes": 2283
+    },
+    {
+      "id": 81,
+      "name": "Faropenem",
+      "sha256": "dc4b0d09f398020aea66c2d3d81cc5efec983118f16d9ba70ff1222bc643b9bd",
+      "bytes": 2469
+    },
+    {
+      "id": 82,
+      "name": "Flucitosina",
+      "sha256": "f26ba01f6952ff653fbca0c078f9db08280dc5206992f242c4a86aba0deaa7e5",
+      "bytes": 4070
+    },
+    {
+      "id": 83,
+      "name": "Dihidroartemisinina/Piperaquina",
+      "sha256": "c57cc2ee8aa8e3d26319789a2a7efd254c4fba3684007f300e5bf477b8b46d54",
+      "bytes": 5041
+    },
+    {
+      "id": 84,
+      "name": "Fusídico, ácido",
+      "sha256": "c37c093a94f30abd19c42c00838cbbf8f9f0d65f37ce41efdd6fe2b36548787b",
+      "bytes": 4972
+    },
+    {
+      "id": 85,
+      "name": "Pentamidina",
+      "sha256": "61b4a3ef3dc0b3fc498ec8edc3a9728e0a92b9bc5c3cc4104171935435ba4d59",
+      "bytes": 3747
+    },
+    {
+      "id": 89,
+      "name": "Nitazoxanida",
+      "sha256": "c0cd7d2db068a6888133c8b86607cc9193078f20a205275013cfe7b0bc5fe7e8",
+      "bytes": 5352
+    },
+    {
+      "id": 88,
+      "name": "Gepotidacina",
+      "sha256": "9a801a754ffbffb8e82a597d622d14c48b32f5a81aa18032b8978573542189e2",
+      "bytes": 10321
+    },
+    {
+      "id": 87,
+      "name": "Posaconazol",
+      "sha256": "9f142601cffc2cde8adc2514368bb892b3cde3a73349ac487d5a8b3f80d05bc9",
+      "bytes": 8277
+    },
+    {
+      "id": 92,
+      "name": "Artemisininas (artesunato, arteméter)",
+      "sha256": "914ceb8b3cbe7fe4e2daf7bed40c549ce07a81ede1fc487a36cc84a8275c7735",
+      "bytes": 3372
+    },
+    {
+      "id": 91,
+      "name": "Cloranfenicol",
+      "sha256": "34a185caa2743c8416ed71819dd4f418a4e2340dcb48f69e2ad4d69d06fff201",
+      "bytes": 3792
+    },
+    {
+      "id": 90,
+      "name": "Rifabutina",
+      "sha256": "f9115b4b2f03959c69bc587166ef7b2d8da8d71fec1181d2bcc1dd4a0b79fbfb",
+      "bytes": 6128
+    },
+    {
+      "id": 93,
+      "name": "Sulopenem",
+      "sha256": "2020fa113c8be360ef4958b1ad7946261055690e8c83583a3003b040e4893e09",
+      "bytes": 6824
+    },
+    {
+      "id": 94,
+      "name": "Temocilina",
+      "sha256": "d13c6c2e4bdc378ce33a3a687bfa1a502f603d3ba9c750de43a8c78f76c035e4",
+      "bytes": 8921
+    },
+    {
+      "id": 95,
+      "name": "Anfotericina B desoxicolato",
+      "sha256": "32abd35a20c80e35fdcb70b0c3669f97e25e8b7a2b5481030bf23421d2a94586",
+      "bytes": 14505
+    },
+    {
+      "id": 96,
+      "name": "Mefloquina",
+      "sha256": "f9d31b4bcd5a5ee0a67bd5dd06830d0c038090b62ddaec03aeb63dafea578f47",
+      "bytes": 5694
+    },
+    {
+      "id": 97,
+      "name": "Meropenem/Vaborbactam",
+      "sha256": "cd5b5c2d9138fd471f7ee4757aec5b02b6b3ecbdd36cc89a374ed9f0bef3f8aa",
+      "bytes": 5823
+    },
+    {
+      "id": 98,
+      "name": "Cefotaxima",
+      "sha256": "9a97f4d307ca486cc2caa18b028527dafb6e4fe6d334044fa1c6ce89d26225b3",
+      "bytes": 10577
+    },
+    {
+      "id": 99,
+      "name": "Clotrimazol",
+      "sha256": "cf6d68930c29bb5affc77b9405d165afe23fbe577d465a3f2661a904715dab45",
+      "bytes": 3636
+    },
+    {
+      "id": 100,
+      "name": "Terbinafina",
+      "sha256": "43009e04aaddeadc8ba473a3a0f84916323dd9f6aefa65d86fa3debc61f4c399",
+      "bytes": 2576
+    },
+    {
+      "id": 103,
+      "name": "Plazomicina",
+      "sha256": "e0385666c1ac49e464463b105992b7c5b487c3b8ca9ac679eaddb8be0c300ee4",
+      "bytes": 5257
+    },
+    {
+      "id": 101,
+      "name": "Adefovir Dipivoxil",
+      "sha256": "82c909fd317844356ba695523d81ed7598320a24047edecd4289e552a345a91c",
+      "bytes": 6636
+    },
+    {
+      "id": 105,
+      "name": "Ceftazidima",
+      "sha256": "5edfc1fab838bb2de6f5c237f2e4bd1b9e5261399e191c00ab8bcecd8628371b",
+      "bytes": 4099
+    },
+    {
+      "id": 102,
+      "name": "Neomicina",
+      "sha256": "ee1388f82fc04bcccfa329c07f99a771f68b1f6b797c7f649ed8f5d52ed0adfe",
+      "bytes": 12773
+    },
+    {
+      "id": 104,
+      "name": "Gentamicina",
+      "sha256": "cf76f848581ea57e97830cf38582be457bd508abac279b3d95e469f70a63f890",
+      "bytes": 12985
+    },
+    {
+      "id": 108,
+      "name": "Doxiciclina",
+      "sha256": "b63807c6c95056f746d0c013c319a1f4b6c5b5f1283e8a06c57c43bfb701a79c",
+      "bytes": 6964
+    },
+    {
+      "id": 106,
+      "name": "Fosfomicina",
+      "sha256": "775159fd65b6d772d97ddc5bbdeabed33f48d92a73990ff90405a87c888d91c5",
+      "bytes": 4009
+    },
+    {
+      "id": 109,
+      "name": "Norfloxacino",
+      "sha256": "b1a3af84fc2b451e83c6247922a13798e87abda4a6306ada188b1dfe1b75a5d9",
+      "bytes": 2042
+    },
+    {
+      "id": 110,
+      "name": "Rifapentina",
+      "sha256": "2628f3e84a12e220d4bb0553558661436d4a533cb7980b645e7297eda14b543d",
+      "bytes": 6523
+    },
+    {
+      "id": 111,
+      "name": "Delamanid",
+      "sha256": "9dfe65de9758b8299880feb5a479ebfea8a055294d412d3b4cf496e46c10e022",
+      "bytes": 7283
+    },
+    {
+      "id": 112,
+      "name": "Cefepima/zidebactam",
+      "sha256": "6b626b5d47d12c053a24c511cdc729cf80926292dca6b8d79716cc53cc9efcc0",
+      "bytes": 4659
+    },
+    {
+      "id": 113,
+      "name": "Ampicilina",
+      "sha256": "5fb643e6365bd60bc994eb14188401b66708b57978b7d2285e4ce61b5736f48f",
+      "bytes": 3957
+    },
+    {
+      "id": 114,
+      "name": "Fidaxomicina",
+      "sha256": "45c54196358f472b40a2d2cd507f3a07867027416d87e618b8cd77e1a91cc8c0",
+      "bytes": 17320
+    },
+    {
+      "id": 115,
+      "name": "Quinina",
+      "sha256": "79646644a4450d81d3d62fc940ce062a6220a7773e161327e3d0f84a4be8b0d9",
+      "bytes": 3792
+    },
+    {
+      "id": 116,
+      "name": "Clofazimina",
+      "sha256": "4d7af4430e7bc374ccfd7ea13cc1994337e4cd1f1a211d8e445f4bb40d246280",
+      "bytes": 5009
+    },
+    {
+      "id": 118,
+      "name": "Linezolid",
+      "sha256": "f5dc86c7db52faf7bada9128946afab501a34486994bbaa7f333e45405c01837",
+      "bytes": 3665
+    },
+    {
+      "id": 117,
+      "name": "Cabotegravir",
+      "sha256": "99a489680915826ea86a605772bcea59af55bc033eb403177e5ee3182f4e938e",
+      "bytes": 5300
+    },
+    {
+      "id": 119,
+      "name": "Idoxuridina",
+      "sha256": "28a0fe27cffc397a7382cd2cfd45659b15090c7e82a6e61a39d92785005381d0",
+      "bytes": 3242
+    },
+    {
+      "id": 120,
+      "name": "Fostemsavir",
+      "sha256": "203c3f4def01ce3818e73fd21f0c77f7791b46bc4776e53f53196e081120e87b",
+      "bytes": 5431
+    },
+    {
+      "id": 122,
+      "name": "Tenofovir (TAF / TDF)",
+      "sha256": "3361b7c9da61ad16a050f820ca0390e95f2f53867fbb6204d191fc5f33ec7d95",
+      "bytes": 5713
+    },
+    {
+      "id": 123,
+      "name": "Cloroquina e Hidroxicloroquina",
+      "sha256": "65dafc59e16472de1fea0d6bec87cee9d5984f28c5d776ca4635d4f849b759ec",
+      "bytes": 3377
+    },
+    {
+      "id": 121,
+      "name": "Roxitromicina",
+      "sha256": "e08f37a439e6a11b2270823863fd20378748ff560e8577c33002368bb44effa2",
+      "bytes": 21316
+    },
+    {
+      "id": 125,
+      "name": "Lenacapavir (LEN)",
+      "sha256": "fe9ed04567864eb130678d7b94a5af93e61fdab396208892d164608534e5e929",
+      "bytes": 7525
+    },
+    {
+      "id": 124,
+      "name": "Cicloserina",
+      "sha256": "92b8759fe2fdc712bac12546930e27a7eaa2b2d49c6d725ca153e9b6d1a3793c",
+      "bytes": 4420
+    },
+    {
+      "id": 126,
+      "name": "Amantadina",
+      "sha256": "21f927f917377235e8c5062de0a88da58e669506f28b3644e318b8eab4262da9",
+      "bytes": 859
+    },
+    {
+      "id": 127,
+      "name": "Triclabendazol",
+      "sha256": "c4a284aaa814127b27afbabf31bcbc53da12d345a79c7a3135bbfafdca5e0e9b",
+      "bytes": 5615
+    },
+    {
+      "id": 128,
+      "name": "Lamivudina",
+      "sha256": "aa1ca8742080086317c06ef8495892b8922275d1faaf237ccfaa5fe0f375e125",
+      "bytes": 3892
+    },
+    {
+      "id": 129,
+      "name": "Atazanavir",
+      "sha256": "41796e59569d064f7d8e67d1aa70abaa31232ce4e728ffa8e6f0ec81cee845cb",
+      "bytes": 7178
+    },
+    {
+      "id": 130,
+      "name": "Niclosamida",
+      "sha256": "3e9634adeae892d3b7335f29a208dfdd09dc52b647d0dca02b2a62a49d7e31b0",
+      "bytes": 6802
+    },
+    {
+      "id": 131,
+      "name": "Ceftazidima/Avibactam",
+      "sha256": "181faf8e97bc9694b16625aa97352e7d57a4fa0a7fd121c654725500795d5e70",
+      "bytes": 4330
+    },
+    {
+      "id": 132,
+      "name": "Doravirina",
+      "sha256": "306ce31358c9de0305e5cceb24ca8e7d537edf21bb80f7254668e025f0cd33a7",
+      "bytes": 3199
+    },
+    {
+      "id": 133,
+      "name": "Cefaclor",
+      "sha256": "5a652a059b136a295f9e2b37ba87fc9d6d5ae5b51efbe3af75d8289df5a02e71",
+      "bytes": 8458
+    },
+    {
+      "id": 134,
+      "name": "Amikacina",
+      "sha256": "4564167c4f8357f47c94ad325650583273c33f240b3327fa35e69f2f123a6515",
+      "bytes": 4735
+    },
+    {
+      "id": 135,
+      "name": "Maribavir",
+      "sha256": "b53cc87c3ccea5cf8a7d55450f2989ada12570d9c0bea031dadebce800bef444",
+      "bytes": 6038
+    },
+    {
+      "id": 136,
+      "name": "Josamicina",
+      "sha256": "006be941f3578fdf0f7ca1c3a5a09b817090e046f01732fcea6012dab04bd534",
+      "bytes": 14017
+    },
+    {
+      "id": 139,
+      "name": "Dolutegravir",
+      "sha256": "b18a7421cf97db806444ced6c274c89488d3329265bd606dfb4dc2a060c5e45a",
+      "bytes": 5131
+    },
+    {
+      "id": 140,
+      "name": "Cefixima",
+      "sha256": "a08d230828499431eea7532c095da5312f1e34a8223cda9c1a0a282e968bd1bb",
+      "bytes": 7819
+    },
+    {
+      "id": 141,
+      "name": "Letermovir",
+      "sha256": "5a3e9758f0e6a2edfdbf6b3d216389fc7865233c36893a6e139a2fb014049f93",
+      "bytes": 3037
+    },
+    {
+      "id": 142,
+      "name": "Efavirenz",
+      "sha256": "cc3e7a31deb1baed0f261fb4efc2f4e494c6bec0cd147e692f36d020ee3fbe9e",
+      "bytes": 3203
+    },
+    {
+      "id": 143,
+      "name": "Cefepima/taniborbactam",
+      "sha256": "1422e99cb71893db73720d13be27adf0d68058c6ded647f36f15be2ed37597d1",
+      "bytes": 8146
+    },
+    {
+      "id": 145,
+      "name": "Aciclovir",
+      "sha256": "782260b3313d9f37b33b0d6d070703d628c3904dac422ca9f20afe4bb2a20b0a",
+      "bytes": 3408
+    },
+    {
+      "id": 146,
+      "name": "Etambutol",
+      "sha256": "852a0d1b9df84cb83d585ef6aedb1aa6cbf1489034141a1a3344144452881ff1",
+      "bytes": 2984
+    },
+    {
+      "id": 147,
+      "name": "Ribavirina",
+      "sha256": "455b14b2ede532b90c6d08c273033655568ff6cedd5cfa359d2a2def396600f5",
+      "bytes": 2502
+    },
+    {
+      "id": 148,
+      "name": "Permetrina",
+      "sha256": "69b5b2208d86dadf5c0264ec6327b92aeab3e18abe044aa72f3b3866ef65e338",
+      "bytes": 5507
+    },
+    {
+      "id": 149,
+      "name": "Rilpivirina",
+      "sha256": "f66e9ebe571a2e4138c3f67add2ae3070d715388556f255310d0f05162d48880",
+      "bytes": 1838
+    },
+    {
+      "id": 150,
+      "name": "Omadaciclina",
+      "sha256": "95095153024488e9977e658b19ce33d5efa5b5bcf875c029505cfb9234ae2fcf",
+      "bytes": 6945
+    },
+    {
+      "id": 151,
+      "name": "Pipemídico, ácido",
+      "sha256": "1de711898f48ff2bef8eb30a412f1dcbfdaf2a1a8f4eafdb104b0a92d1c1d5e3",
+      "bytes": 20414
+    },
+    {
+      "id": 154,
+      "name": "Abacavir",
+      "sha256": "1d753f13a7a31b8f8656cba44832240d37cebd29032ba48bdf1e6c01813a26ad",
+      "bytes": 3670
+    },
+    {
+      "id": 152,
+      "name": "Metenamina",
+      "sha256": "94b3e40699c32bd1e558bf2cb863f3ce271c6cee429e22d03bd32fdc645ffa20",
+      "bytes": 5266
+    },
+    {
+      "id": 153,
+      "name": "Tinidazol",
+      "sha256": "7fa45e967a1e16cc44b6773eefdb2778a0f910e2b711fb2a325c7897270efa62",
+      "bytes": 4421
+    },
+    {
+      "id": 155,
+      "name": "Ceftriaxona",
+      "sha256": "e344b910166b31c089cce0eb4750c660e2cd8d6fc0ea2b73f6840e298ffc445b",
+      "bytes": 6801
+    },
+    {
+      "id": 156,
+      "name": "Itraconazol",
+      "sha256": "575b65d45faab39447406307422dfbbdd2a8db4203a0ad02c6a8d607ffcacb28",
+      "bytes": 15379
+    },
+    {
+      "id": 157,
+      "name": "Para-amino-salicílico, ácido (PAS)",
+      "sha256": "11a679c18f39f8604fd86a721a5faae052c8158b8fddf4099d51fde952a4c04b",
+      "bytes": 5139
+    },
+    {
+      "id": 158,
+      "name": "Claritromicina",
+      "sha256": "660c3a3615722ce7aed72e194c0b82cb1855abb9ba3f496338cc4117248ab8c5",
+      "bytes": 20301
+    },
+    {
+      "id": 162,
+      "name": "Trimetoprim",
+      "sha256": "95b350b92091f6d34a22996a81dd282db300406a47ad6ff3f2aca5da69c4cc1c",
+      "bytes": 2183
+    },
+    {
+      "id": 159,
+      "name": "Dalbavancina",
+      "sha256": "ee0bd88b3ef080f42546a41e622f2c1bb8d8545a1c6ec332c5973413fa50c25a",
+      "bytes": 22329
+    },
+    {
+      "id": 160,
+      "name": "Melarsoprol",
+      "sha256": "12ed5018dc376d18092a201196d228589c8561c723a6cee7978ca66e5f49c012",
+      "bytes": 3789
+    },
+    {
+      "id": 161,
+      "name": "Lopinavir",
+      "sha256": "1a85db81cc76c44431cda5b87d134e9a0d0d5443d32a949dff2be4dd1d6f0bd5",
+      "bytes": 3865
+    },
+    {
+      "id": 164,
+      "name": "Grazoprevir",
+      "sha256": "5f58972b665316847ffe6d6358115475588a27b6a3220caf3a253164cf447a36",
+      "bytes": 9720
+    },
+    {
+      "id": 163,
+      "name": "Sulfadiazina",
+      "sha256": "34c784eb1a1c72dd1037be48f07229f96de37c84c58fc32543510b1ff8027dfd",
+      "bytes": 4001
+    },
+    {
+      "id": 165,
+      "name": "Ceftolozano/Tazobactam",
+      "sha256": "de7791759ce5cf7b7d02216b4d6e402fad25ee5799c227d395f827cfa5fc865f",
+      "bytes": 13535
+    },
+    {
+      "id": 166,
+      "name": "Bulevirtida",
+      "sha256": "18dd610d0d6ac6cb8a0f15e58ea84a3e3755d0c89ae49d8f1ec2afc2e924e870",
+      "bytes": 46036
+    },
+    {
+      "id": 167,
+      "name": "Ozenoxacino",
+      "sha256": "820e824b05328c223313eced007ea375175fcf49ce4586be8380fa5bd6408616",
+      "bytes": 2990
+    },
+    {
+      "id": 168,
+      "name": "Dietilcarbamacina",
+      "sha256": "2acf5eb4d32d14ab1d29d72b79e370a68bfaf5f31ae86142605a69776d72dfe8",
+      "bytes": 2366
+    },
+    {
+      "id": 170,
+      "name": "Anfotericina B liposomal",
+      "sha256": "32abd35a20c80e35fdcb70b0c3669f97e25e8b7a2b5481030bf23421d2a94586",
+      "bytes": 14505
+    },
+    {
+      "id": 169,
+      "name": "Valaciclovir",
+      "sha256": "05a93372ca64a71c67dcd79603f24f61f44b2d65f58e2940902b8530436b06e4",
+      "bytes": 4614
+    },
+    {
+      "id": 171,
+      "name": "Levofloxacino",
+      "sha256": "18500fb492ce6ee4a9011093a72d3db709b4249ac2bfd38116603cbd45a9278a",
+      "bytes": 5013
+    },
+    {
+      "id": 172,
+      "name": "Rifampicina",
+      "sha256": "4b4317c07096e642776542df2f0cabeb3b008236948a0ee700b23c22a0bdd566",
+      "bytes": 6561
+    },
+    {
+      "id": 174,
+      "name": "Colistina",
+      "sha256": "57d1ece7c7e4145667bb485a68d5a65900c9b68b4ca971702b42296d5a7bec88",
+      "bytes": 16327
+    },
+    {
+      "id": 175,
+      "name": "Peramivir",
+      "sha256": "afbad1fa3a71fd049fbc0acd0492449999b29c7546a6e936b7fd0f8bd08bb9ab",
+      "bytes": 4461
+    },
+    {
+      "id": 176,
+      "name": "Nitrofurazona",
+      "sha256": "a26d81de7a2dc140dde93f8ff58f862c7bcd248677f71455cd1b9403a13c2ae4",
+      "bytes": 6852
+    },
+    {
+      "id": 177,
+      "name": "Pristinamicina",
+      "sha256": "2c1b29c42bfe60948039f3fcc625cf6dfdf02ea441bb70292f9176e68307b4ab",
+      "bytes": 25295
+    },
+    {
+      "id": 178,
+      "name": "Flutrimazol",
+      "sha256": "bc9cda555942cd90c41248d3d2a9ca982dcbb31c5aceeb4fb13030ef77df93a8",
+      "bytes": 3600
+    },
+    {
+      "id": 179,
+      "name": "Cefuroxima y Cefuroxima axetilo",
+      "sha256": "7f6abb341fb5714ae08c280b6b86f81adf26607a5746423c086c70ddfd68367d",
+      "bytes": 3311
+    },
+    {
+      "id": 180,
+      "name": "Famciclovir (Penciclovir)",
+      "sha256": "88eaf284a9963d1d7b2e43ce8a7891f31c87848136d6f6a092a11cbd56bc12e0",
+      "bytes": 2948
+    },
+    {
+      "id": 181,
+      "name": "Rezafungina",
+      "sha256": "4dbfeddc13e0afe68fc42b53fce8ba6491b754534d437f0175b5af2cba3ed4df",
+      "bytes": 6303
+    },
+    {
+      "id": 182,
+      "name": "Atovacuona",
+      "sha256": "dc22b1de681b8f3c8ef3a3ba91ae8b763819e5ec8f485ed09118df3844a49c1e",
+      "bytes": 5981
+    },
+    {
+      "id": 183,
+      "name": "Ceftarolina fosamil",
+      "sha256": "3e2b221e0558574899235de0c5448ff96dee8ac2574d8e107a44471718d1d618",
+      "bytes": 6683
+    },
+    {
+      "id": 184,
+      "name": "Ciprofloxacino",
+      "sha256": "47a2a9a0249003979fc82921671831586da890ffa71c99b1766ac8509b9b6947",
+      "bytes": 6944
+    },
+    {
+      "id": 185,
+      "name": "Sofosbuvir",
+      "sha256": "64ca97deead927065ca1afb247a8f18dbdb0830437d8fbd5772ac5dc1e312e1b",
+      "bytes": 12079
+    },
+    {
+      "id": 187,
+      "name": "Clortetraciclina",
+      "sha256": "0729f89942280151a7e5b6f71bde88d2013508aea0164eb4141456680760a8a5",
+      "bytes": 7643
+    },
+    {
+      "id": 188,
+      "name": "Lefamulina",
+      "sha256": "48b130f96c677d13081ce1a595e22006eeaf0a33eadcd2e5f0565409d1f0eed0",
+      "bytes": 3933
+    },
+    {
+      "id": 189,
+      "name": "Nistatina",
+      "sha256": "b2ee5a36df18e57b0d279b60f8839bd4a276b6e0f634b164721fd66451e98a09",
+      "bytes": 14517
+    },
+    {
+      "id": 190,
+      "name": "Glecaprevir",
+      "sha256": "6023d81048bd4666361112daa4265e590d70d1371d87594f27c9cb7e8f2ec945",
+      "bytes": 9935
+    },
+    {
+      "id": 191,
+      "name": "Mepacrina (hidrocloruro de quinacrina)",
+      "sha256": "36101478f1ae941c55e00421c11eb6701e0df6cf31073be7e79bcaa6352d0d93",
+      "bytes": 3620
+    },
+    {
+      "id": 192,
+      "name": "Delafloxacino",
+      "sha256": "4a27c6cab2744aae4bcb1371152e824df59f4a64b6375d1602cb28ef50c2d23a",
+      "bytes": 7294
+    },
+    {
+      "id": 194,
+      "name": "Meglumina, antimoniato de",
+      "sha256": "b0aaee65025fd6e26c0136b7285965cdf019c5c7222eb1e95c3af35f52f6378c",
+      "bytes": 7347
+    },
+    {
+      "id": 196,
+      "name": "Zoliflodacina",
+      "sha256": "7717f64d36238d4c1dd37355b5c6bde6b404106d64b85582a1f1c6843cdc5c61",
+      "bytes": 13649
+    },
+    {
+      "id": 193,
+      "name": "Ceftobiprol medocaril",
+      "sha256": "e352db34b6723879f8a8427f726fdcc19e342ea3d4adc9d19df26ef699558a65",
+      "bytes": 4971
+    },
+    {
+      "id": 195,
+      "name": "Oxiconazol",
+      "sha256": "027662f6fdf82d651c83753861252a9050cb3c80dfc014d6e1dfd2a32ed6d5e6",
+      "bytes": 5006
+    },
+    {
+      "id": 197,
+      "name": "Cefoxitina",
+      "sha256": "934ee475b5d5c81d1fc466798061e8bec9c1e30a3af0ada467ee4a99baa45559",
+      "bytes": 7901
+    },
+    {
+      "id": 198,
+      "name": "Amorolfina",
+      "sha256": "058b3221c549f4ce87b960628ced41ef7c5758da2e8cf51ce10286171a55b560",
+      "bytes": 6097
+    },
+    {
+      "id": 199,
+      "name": "Pamoato de Pirantel",
+      "sha256": "a4a2060360a907e4d5a85f81dd7f5dbdb007aab2f805d7e5b6838df22b8b43a9",
+      "bytes": 2556
+    },
+    {
+      "id": 200,
+      "name": "Penicilina V",
+      "sha256": "b3c47182fc72d8a3d18da836623692fc2dd9545a4034cc507d558cd1993767f2",
+      "bytes": 8946
+    },
+    {
+      "id": 201,
+      "name": "Amoxicilina",
+      "sha256": "5db50ea8cd770ec7202af36265178bf898e4336f4a24352aa536637845cb522d",
+      "bytes": 6319
+    },
+    {
+      "id": 202,
+      "name": "Cloxacilina (Oxacilina, Dicloxacilina y Flucloxacilina)",
+      "sha256": "f6c9b011ca28dcb9435eaa5ea66c3fac0a47e2f4a9d537b0b612a39685979b8c",
+      "bytes": 6765
+    },
+    {
+      "id": 203,
+      "name": "Sareciclina",
+      "sha256": "3619464121bfd54ce99c72765b48321de4fd9ed9e762eba1ac9c23eb28156a52",
+      "bytes": 12490
+    },
+    {
+      "id": 204,
+      "name": "Fenticonazol",
+      "sha256": "8e0d8e7906dd73519e292f313c854f2279640b6edcfa68847400d681e3871a9a",
+      "bytes": 4512
+    },
+    {
+      "id": 205,
+      "name": "Quinidina",
+      "sha256": "e43f643444965568c059a0359fffa7fdef47f0e636afeb621afaa7c46bdb0832",
+      "bytes": 4399
+    },
+    {
+      "id": 208,
+      "name": "Praziquantel",
+      "sha256": "77bc1e33deb3780d2eaf27807bb653bc0172e8f429f9bca0c5612922686b5cbd",
+      "bytes": 2721
+    },
+    {
+      "id": 209,
+      "name": "Malation",
+      "sha256": "8ee0240bf0016d62b7eb3b038456dda93009ff8a0ff6cc510e8f04f048ac8c8a",
+      "bytes": 3451
+    },
+    {
+      "id": 210,
+      "name": "Isoniazida",
+      "sha256": "b40928c6c75287baab313b8d48065bb6670eb8c1ba7240780bc0093bb2a6508e",
+      "bytes": 3833
+    },
+    {
+      "id": 211,
+      "name": "Minociclina",
+      "sha256": "f0c40db3fea9a64ae81c7fbc213c310c9b15ef6c55dce73c23d03b6b686daac3",
+      "bytes": 6595
+    },
+    {
+      "id": 212,
+      "name": "Cefepima/enmetazobactam",
+      "sha256": "cd331281efbf896681285e288bea60c3bd962741d9f9f9c95225cb6ad1be6f74",
+      "bytes": 5832
+    },
+    {
+      "id": 214,
+      "name": "Metronidazol",
+      "sha256": "e4701d2748a43f07376ca2e76a05d5f40164382e0b2898a50cbc797f9d9542a3",
+      "bytes": 2784
+    },
+    {
+      "id": 216,
+      "name": "Olorofim",
+      "sha256": "70be10aa9a3878464570437b0d2edb5a4ab266e3dd18b341633f64ac94cd0c9c",
+      "bytes": 11790
+    },
+    {
+      "id": 215,
+      "name": "Brivudina",
+      "sha256": "ce51457cdc1d370cc8495200904a5d727709ba1df7ad7262e73602cb12d8dd7c",
+      "bytes": 3703
+    },
+    {
+      "id": 218,
+      "name": "Fosmanogepix",
+      "sha256": "1103222e3772c9f718f03bd084e80e5578746e9e4b170c3ea4dfbc4b6911f212",
+      "bytes": 2037
+    },
+    {
+      "id": 219,
+      "name": "Anidulafungina",
+      "sha256": "745435c0db2200acc86335ed38c8e52086669ae52de28781d4f61402eefd305f",
+      "bytes": 14747
+    },
+    {
+      "id": 217,
+      "name": "Cefpodoxima",
+      "sha256": "086a5cfae5d0891adc92e2dd346daa2510d8fad134a03af3dc63c1bed1879f6a",
+      "bytes": 7354
+    },
+    {
+      "id": 220,
+      "name": "Paromomicina",
+      "sha256": "0dcddcbb0c35712a510b698e0b264a956e24f519f906bceb8a0d7412e3db0771",
+      "bytes": 8929
+    },
+    {
+      "id": 222,
+      "name": "Azitromicina",
+      "sha256": "bc43e819ec8df6ac966336c0d70528fa27b8003d94d47f4ffcd71f21462c5a2c",
+      "bytes": 20932
+    },
+    {
+      "id": 224,
+      "name": "Cefalexina",
+      "sha256": "f240efb963004b90bb4b013aa18b4786761002e82fc0f139eac216b6754d2917",
+      "bytes": 6189
+    },
+    {
+      "id": 221,
+      "name": "Ampicilina/Sulbactam (Sultamicilina)",
+      "sha256": "290121bb32b41b2fc28b44c3c774224bc7474da699285e69d5f58d390ccdf148",
+      "bytes": 4305
+    },
+    {
+      "id": 226,
+      "name": "Fexinidazol",
+      "sha256": "9caa717023887c5b2f1eea757743b633ce97e4dc00c84f7336e390561c18896c",
+      "bytes": 4425
+    },
+    {
+      "id": 230,
+      "name": "Ensitrelvir",
+      "sha256": "9cc8280e2727271319d8c0265bfa3eafbadff4a821e77786857f21a7ebb81f52",
+      "bytes": 4127
+    },
+    {
+      "id": 227,
+      "name": "Imipenem",
+      "sha256": "907eb330da510a33b2c2b78ae173af0fd75996b6eae6fb16179b5c99a2a89d76",
+      "bytes": 6874
+    },
+    {
+      "id": 229,
+      "name": "Pirazinamida",
+      "sha256": "82a06a6a902876d119e0b3089e6ccf3cc9edf89c44087a56ee377e51c25a498b",
+      "bytes": 1771
+    },
+    {
+      "id": 231,
+      "name": "Griseofulvina",
+      "sha256": "4ef061b6d1193ae6c44d6df4fb63c304d608140f16d6bb0482514bcf2aee1b36",
+      "bytes": 3754
+    },
+    {
+      "id": 228,
+      "name": "Micafungina",
+      "sha256": "85210ff62154e78a265ad0aa4e32feae400d7206260148fbcb29da5bd0a4cd95",
+      "bytes": 20089
+    },
+    {
+      "id": 232,
+      "name": "Cefditoreno",
+      "sha256": "1b6fccedc88458b089f4dc29db1024bccc15045e12f741840c3e2b98832816a3",
+      "bytes": 3772
+    },
+    {
+      "id": 233,
+      "name": "Natamicina",
+      "sha256": "adc867b0f7b32d961cb6cda0ac009043c9ea6dd052a324b1c40fbdd0fe40937c",
+      "bytes": 7878
+    },
+    {
+      "id": 234,
+      "name": "Benznidazol",
+      "sha256": "56e057c531ea4db51cb7393ed6a0668e774b663d5bc953df1e978cd0b49c5be0",
+      "bytes": 4543
+    },
+    {
+      "id": 235,
+      "name": "Sertaconazol",
+      "sha256": "6f79ca2afb670e38b6e46ad98fe105d25b02375c40612c638ea42cde96e8b46a",
+      "bytes": 4377
+    },
+    {
+      "id": 236,
+      "name": "Ertapenem",
+      "sha256": "6997361ddd91e5097d3dfd6bb5f8959bc9a7cd3a363fd64ac8b7b1d8c0462d72",
+      "bytes": 9692
+    },
+    {
+      "id": 237,
+      "name": "Suramina",
+      "sha256": "e999704b6e4f44347db1eaacb74d5f1dbd28af5dfdc823b4a54c966cbd805edc",
+      "bytes": 6247
+    },
+    {
+      "id": 238,
+      "name": "Tebipenem",
+      "sha256": "1c51e757f44e4e3e68e1923f11974c0757df5eb32bb10882645a98b35e196a9b",
+      "bytes": 11580
+    },
+    {
+      "id": 239,
+      "name": "Cobicistat",
+      "sha256": "1aa0620d1053082ec7b2836862a71fa891708dbf8babb4da5b76cb229964c235",
+      "bytes": 5020
+    },
+    {
+      "id": 242,
+      "name": "Arteméter/Lumefantrina",
+      "sha256": "1ce0928be9d19da68dd5502d8d43bc2e0d0871f84e945993e2c7bafd5fb3368e",
+      "bytes": 5511
+    },
+    {
+      "id": 240,
+      "name": "Moxifloxacino",
+      "sha256": "bbfab209c1d82e14ecafa7f51edcf5ea1dda57132212d14bf32b73e0d739d180",
+      "bytes": 5577
+    },
+    {
+      "id": 241,
+      "name": "Oteseconazol",
+      "sha256": "034365437a2680f5e5f1c3ee9e5d890993b7348a227375718c8d33043eb29a10",
+      "bytes": 12307
+    },
+    {
+      "id": 243,
+      "name": "Zanamivir",
+      "sha256": "19f7aa8d9267ad7fe61812a713402ce21ce64ffa7fe06210e4a930291a53e71e",
+      "bytes": 4942
+    },
+    {
+      "id": 244,
+      "name": "Tetraciclina (Clorhidrato de)",
+      "sha256": "ddcf017c4f5bbdd173bcef9f7f596f69bc198b26ac5bd328da5e7dcb575dfaba",
+      "bytes": 7150
+    },
+    {
+      "id": 248,
+      "name": "Primaquina",
+      "sha256": "3dc2e808c1d46a827e6157e92e8235fb475f6457d77f4dc0ddbaedc87918e098",
+      "bytes": 3074
+    },
+    {
+      "id": 247,
+      "name": "Espiramicina",
+      "sha256": "5905af65a2f1a583abf77ee50332406ec9fedf07cb4689a9618f768689f03187",
+      "bytes": 17465
+    },
+    {
+      "id": 246,
+      "name": "Miconazol",
+      "sha256": "e49821591ec3390d3dc6f514b23cf6e87baddc7a68b5f1efe84db64e6a5e1e10",
+      "bytes": 4200
+    },
+    {
+      "id": 249,
+      "name": "Emtricitabina (FTC)",
+      "sha256": "1a7c4b1b196347c50f0a58baf1ff6f892d43542031de275bf5202d2fe65bafee",
+      "bytes": 3020
+    },
+    {
+      "id": 245,
+      "name": "Oseltamivir",
+      "sha256": "e5c60aaf09855a4cd90c49c1f9ff807745ab66c921ea76032dfcc7f17c95fe70",
+      "bytes": 2556
+    },
+    {
+      "id": 250,
+      "name": "Penicilina G",
+      "sha256": "8145c5acbe16eab20af0cc8fe2d198567e2559684698590947246b7846bfbe70",
+      "bytes": 5047
+    },
+    {
+      "id": 251,
+      "name": "Sulfadiazina argéntica",
+      "sha256": "45a1b9926c58a9f78b1f8c7d7de7657c7b539f913787128cff4624ccf0e385cf",
+      "bytes": 4910
+    },
+    {
+      "id": 253,
+      "name": "Contezolid",
+      "sha256": "62742db3add859d3db3650eae455b06b655b57ee8b7eb413be57d988abb202a6",
+      "bytes": 10506
+    },
+    {
+      "id": 254,
+      "name": "Darunavir",
+      "sha256": "070ca697a462d93ef4ecccdf2ae36c39feb7727f8ec93a27aabfc8ba1f0cc5bf",
+      "bytes": 7777
+    },
+    {
+      "id": 255,
+      "name": "Cefadroxilo",
+      "sha256": "b1df26726ee2cc4be15fb5414d7cdba3c15ade69182353e714e7146e085454a6",
+      "bytes": 6167
+    },
+    {
+      "id": 256,
+      "name": "Cefminox",
+      "sha256": "0ca3fde9ae54235038f3b94384bf706fa64c50f9bcecec2b466a677bb893d7df",
+      "bytes": 3872
+    },
+    {
+      "id": 257,
+      "name": "Pretomanid",
+      "sha256": "81c9970facfbb5f38958e9c29f0b964f0b621fccdc3506e53c58816382745b8f",
+      "bytes": 2809
+    },
+    {
+      "id": 258,
+      "name": "Favipiravir",
+      "sha256": "ad34548fe27939a0a29bd75ab78494a5e55be65c907aa9461d5594cdbae4a5b9",
+      "bytes": 2142
+    },
+    {
+      "id": 259,
+      "name": "Imipenem/Relebactam",
+      "sha256": "d14285c8a7c39ceebf92fc3cbef2e0def8e7e359993e6510cafc9a650eab108d",
+      "bytes": 5135
+    },
+    {
+      "id": 261,
+      "name": "Fluconazol",
+      "sha256": "c47201e572541f22831a889688b7443f21cdfd0444bccf88704d3a43783f7aab",
+      "bytes": 5716
+    },
+    {
+      "id": 262,
+      "name": "Umifenovir (arbidol)",
+      "sha256": "1637f4e06f919c94b2b0dc7d3e4d64abd7ba21f724336590913627dd8b0b40c3",
+      "bytes": 4841
+    },
+    {
+      "id": 263,
+      "name": "Benzoato de Bencilo",
+      "sha256": "03e2b8ed65176a227adac0b5545c10403ff0c54539c489e6fb1d9ea843b097cc",
+      "bytes": 4540
+    },
+    {
+      "id": 264,
+      "name": "Miltefosina",
+      "sha256": "f57821b1c9aa8091cbb5dae7a3f4b2d2f43a6dd2865c83e50a441256f1ec8ec9",
+      "bytes": 4197
+    },
+    {
+      "id": 265,
+      "name": "Voxilaprevir",
+      "sha256": "e89c26fc35bfbf0fc83bda16173050a508a414879b0a133b8e92bae524fa056a",
+      "bytes": 9864
+    },
+    {
+      "id": 266,
+      "name": "Aztreonam/Avibactam",
+      "sha256": "181faf8e97bc9694b16625aa97352e7d57a4fa0a7fd121c654725500795d5e70",
+      "bytes": 4330
+    },
+    {
+      "id": 267,
+      "name": "Teicoplanina",
+      "sha256": "5bd56c47bef5e1c76a132ee91636be2842f5c928b71e5fd43d847abbdcc89b37",
+      "bytes": 52366
+    },
+    {
+      "id": 268,
+      "name": "Aztreonam",
+      "sha256": "7aacd1b7018cf5fd2557e411c239c1847f50a8cb97b12a34218f3c8b59d20991",
+      "bytes": 8681
+    },
+    {
+      "id": 269,
+      "name": "Vancomicina",
+      "sha256": "f6844f1b02c7e1b67dd586dead1fdbbc6a8cfedc317c3ae3d95900b95c44ea0f",
+      "bytes": 11623
+    },
+    {
+      "id": 271,
+      "name": "Oritavancina",
+      "sha256": "9bc1b269554cf0e23a36e099377bfc375feed6556a27c0c9beb2fa70c69b9286",
+      "bytes": 11896
+    },
+    {
+      "id": 272,
+      "name": "Cotrimoxazol",
+      "sha256": "2f04afc17812ea84604526350e928fde6ee821bc21bf3e87889032370fdb7c93",
+      "bytes": 8393
+    },
+    {
+      "id": 273,
+      "name": "Isavuconazol",
+      "sha256": "54446c2a830661ab53bfdb78854f0459a47c1b80de6a4aa3865864b3f25ce0de",
+      "bytes": 5377
+    },
+    {
+      "id": 274,
+      "name": "Daptomicina",
+      "sha256": "1da08d1ae3f7ce72c8c5368d8d7018fc6b92c222817e12cd6007e908ec1bbf36",
+      "bytes": 8459
+    },
+    {
+      "id": 275,
+      "name": "Cefiderocol",
+      "sha256": "28e7ea214b8d50a541cba510fe64412471a7b9ba733213f240d890399d702653",
+      "bytes": 20851
+    }
+  ]
+}

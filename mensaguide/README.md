@@ -1,5 +1,7 @@
 # MensaGuide para navegador — versión web 5
 
+**Última revisión:** [MensaGuide-revision-completa.html](MensaGuide-revision-completa.html), con encabezados recuperados en 45 tablas de síndromes y 255 estructuras moleculares originales. Conserva calendario, iconos, CIMA e imágenes ligeras. **Download raw file** (47,3 MB). Alcance y ocho utilidades pendientes en [REVISION-DE-CONTENIDOS.md](REVISION-DE-CONTENIDOS.md).
+
 **Última descarga corregida:** [MensaGuide-calendario-corregido.html](MensaGuide-calendario-corregido.html), versión ligera con el calendario vacunal original visible, iconos y CIMA. Pulsa **Download raw file** (aproximadamente 45 MB). Detalles en [CALENDARIO-VACUNAL-CORREGIDO.md](CALENDARIO-VACUNAL-CORREGIDO.md).
 
 **Última descarga:** [MensaGuide-escritorio-iconos.html](MensaGuide-escritorio-iconos.html), versión ligera con CIMA e iconos de categoría en el menú lateral. Pulsa **Download raw file** (aproximadamente 45 MB). Detalles en [ICONOS-MENU.md](ICONOS-MENU.md).
