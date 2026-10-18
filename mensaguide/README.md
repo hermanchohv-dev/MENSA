@@ -1,5 +1,7 @@
 # MensaGuide para navegador — versión web 5
 
+**Descarga ligera recomendada:** [MensaGuide-escritorio-ligero.html](MensaGuide-escritorio-ligero.html), **44,9 MB** (54 % menos), con las mismas 621 referencias fotográficas en 435 fichas. Pulsa **Download raw file**. Detalles de compresión y verificación en [VERSION-LIGERA.md](VERSION-LIGERA.md).
+
 **Última entrega:** [MensaGuide-escritorio-Wikipedia.html](MensaGuide-escritorio-Wikipedia.html), con 435 fichas con imagen y 205 nuevas fotografías de los ZIP de Wikipedia. Usa **Download raw file** (97,4 MB). Detalles y atribuciones en [FOTOGRAFIAS-WIKIPEDIA.md](FOTOGRAFIAS-WIKIPEDIA.md).
 
 **Última actualización:** [MensaGuide-escritorio-PHIL-actualizado.html](MensaGuide-escritorio-PHIL-actualizado.html), con 304 fichas con imágenes, 76 fotografías adicionales y selector de fuentes. Usa **Download raw file** (56,9 MB). Detalles en [FOTOGRAFIAS-PHIL-RECUPERADOS.md](FOTOGRAFIAS-PHIL-RECUPERADOS.md).

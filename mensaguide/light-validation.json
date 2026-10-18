@@ -1,0 +1,13 @@
+{
+  "clinical_database_unchanged": true,
+  "all_621_images_decode": true,
+  "all_435_records_and_photo_counts_preserved": true,
+  "subjects_captions_authors_licenses_and_source_urls_preserved": true,
+  "image_hashes_verified": true,
+  "max_image_side_px": 960,
+  "no_image_upscaled": true,
+  "search_filter_selector_zoom_escape_verified": true,
+  "offline_photo_navigation_verified": true,
+  "javascript_errors": [],
+  "external_requests": []
+}
