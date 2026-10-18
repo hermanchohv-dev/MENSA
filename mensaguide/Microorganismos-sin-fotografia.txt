@@ -1,56 +1,41 @@
-Abiotrophia defectiva
 Acanthamoeba polyphaga mimivirus
 Acanthocheilonema
 Acanthoparyphium tyosenense
 Acanthotrema felis
-Acetobacter
 Acidaminococcus
 Acidomonas methanolica
-Acidovorax
-Acrophialophora
 Actinobaculum
 Actinomortierella wolfii
-Actinomucor elegans
-Actinotignum
 Advenella incenata
 Afipia
 Aichi
 Alaria
-Albifimbria verrucaria
-Alexandrium
 Algas productoras de toxinas
 Alistipes
 Alkanindiges hongkongensis
 Alloiococcus otitidis
 Alloprevotella tannerae
 Alloscardovia omnicolens
-Alongshan virus (ALSV)
 Alouattamyia baeri
 Amedibacterium intestinale
 Amycolatopsis benzoatilytica
 Anaerobiospirillum
 Anaerococcus
 Anaerotruncus colihominis
-Angiostrongylus
 Anisakis
-Aphanoascus
 Apiotrichum
-Apophysomyces
 Aquamicrobium terrae
 Aquaspirillum
 Arbovirus
 Arcobacter
-Armillifer
 Arsenicicoccus cauae
 Arsenophonus nasoniae
 Arthrinium
-Arthrobacter
 Arthrocladium fulminans
 Arthrographis kalrae
 Arthropsis hispanica
 Artyfechinostomum malayanum
 Asaia
-Astrovirus
 Atopobium
 Auchmeromyia senegalensis
 Aureimonas altamirensis
@@ -60,27 +45,19 @@ Averyella dalhousiensis
 Azorhizobium caulinodans
 Azospirillum
 Balneatrix alpica
-Banna
 Bartonella
 Bas-Congo (BASV)
 Baylisascaris procyonis
-Bergeyella
 Bifidobacterium
 Bilophila wadsworthia
 Bisifusarium
-Bjerkandera adusta
 BK poliomavirus (BKPyV)
-Blastobotrys
 Blastomonas natatoria
-Bocavirus humano
 Borealpox virus (BRPV)
 Borna
 Borrelia​ spp
 Brachybacterium
-Brachylaima
 Brachyspira
-Bradyrhizobium
-Brevibacterium
 Budvicia
 Bufavirus
 Bulleidia extructa
@@ -90,35 +67,25 @@ Butyribacter intestini
 Butyricimonas
 Cache Valley virus
 Canibacter oris
-Cardiovirus
 Carnobacterium
 Catabacter hongkongensis
 Catonella morbi
-Caulobacter
-Cedecea
 Cellulomonas
 Cellulosimicrobium
-Centrocestus
 Cephalotrichum gorgonifer
 Ceriporia lacerata
 Chikungunya (CHIKV)
 Chitinophaga
 Chlamydia abortus
 Choanephora infundibulifera
-Chondrostereum purpureum
 Chordomyces antarcticum
 Chryseobacterium
 Chrysomya
 Cimex
-Clinostomum
-Cokeromyces recurvatus
 Collinsella
-Coniochaeta
 Coniosporium epidermidis
 Contracaecum osculatum
-Coprinopsis cinerea
 Cordylobia
-Coriomeningitis linfocitaria (LCMV)
 Coronavirus (humanos, MERS, SARS-CoV-1)
 Coronavirus SARS-CoV-2 (COVID-19)
 Cosavirus
@@ -128,25 +95,16 @@ Criibacterium bergeronii
 Crimea-Congo, virus de la fiebre hemorrágica (CCHFV)
 Cryptococcus otras spp
 Cupriavidus
-Curtobacterium
-Cyberlindnera
 Cylindrocarpon
 Cyphellophora
 Cystoisospora belli
 Dandenong
-Delftia
 Demodex
 Dengue
 Dermabacter
-Desulfovibrio
 Dialister
-Diaporthe
-Dicrocoelium
 Dictyostelium polycephalum
-Didymella
-Dielma fastidiosa
 Dietzia
-Dinophysis
 Dioctophyma renale
 Diplogonoporus
 Dipylidium caninum
@@ -156,14 +114,12 @@ Dolosigranulum pigrum
 Drosophila melanogaster
 Dyella japonica
 Dysgonomonas
-Echinochasmus
 Edwardsiella tarda
 Effusibacillus consociatus
 Eggerthia catenaformis
 Ehrlichia
 Eisenbergiella tayi
 Emarellia
-Emergomyces
 Emericella
 Empedobacter
 Encefalitis equina
@@ -171,17 +127,11 @@ Encefalitis japonesa (VEJ)
 Enemella
 Engyodontium album
 Enterocloster
-Epicoccum
-Eristalis tenax
-Erwinia
 Erysipelatoclostridium
 Escherichia spp
 Estrella lausannensis
 Eubacterium
-Eurytrema pancreaticum
-Eustrongylides
 Eutrombicula. Neotrombicula
-Exiguobacterium
 Facklamia
 Fastidiosipila sanguinis
 Fiebre amarilla, virus (YFV)
@@ -189,22 +139,14 @@ Fiebre hemorrágica de Alkhurma (Alkhumra)
 Fiebre por garrapatas del Colorado
 Filifactor
 Finegoldia magna
-Flavonifractor plautii
 Franklinella schreckenbergeri
 Frederiksenia canicola
-Gallibacterium anatis
-Gambierdiscus toxicus
 Gambiomyces
 Gasterophilus
-Gastrodiscoides hominis
-Geomyces
 Globicatella sanguinis
 Gloeostereum cimri
-Gloniopsis
 Gluconobacter
 Glutamicibacter
-Gnathostoma
-Gongylonema pulchrum
 Gordonia
 Gordonibacter pamelaeae
 Granulibacter bethesdensis
@@ -215,9 +157,7 @@ Gymnophalloides seoi
 Haematobacter
 Haematomicrobium sanguinis
 Haematospirillum jordaniae
-Halicephalobus gingivalis
 Halomonas
-Haplorchis
 Hazenella coriacea
 Helcobacillus massiliensis
 Helcococcus
@@ -228,7 +168,6 @@ Hepatitis C
 Hepatitis D o delta
 Hepatitis E
 Hepatitis F
-Herbaspirillum
 Hermetia illucens
 Herpes B
 Herpesvirus humano tipo 6
@@ -248,7 +187,6 @@ Inermicapsifer madagascariensis
 Inmunodeficiencia de los simios (VIS)
 Inquilinus
 Iodamoeba buetschlii
-Irpex lacteus
 Issatchenkia terricola
 Janibacter
 JC poliomavirus (JCPyV)
@@ -257,44 +195,32 @@ Karenia brevis
 Kazachstania
 Kerstersia
 Kloeckera apiculata
-Kluyveromyces marxianus
 Kneiffiella palmae
 Knoxdaviesia
-Kocuria
 Kodamaea
 Kosakonia
-Kudoa septempunctata
 Kurthia
 Kyasanur forest (KFDV)
-Kytococcus
 Laceyella
 Lachancea fermentati
 Lactobacillus
-Lactococcus
 Lagochilascaris minor
 Langya virus (LayV)
 Laribacter hongkongensis
-Lasiodiplodia
 Lautropia mirabilis
 Lawsonella clevelandensis
 Leclercia
 Leifsonia aquatica
-Lelliottia
 Leminorella
 Leptocimex
 Leptosphaeria
 Leucobacter
-Linguatula serrata
 Lodderomyces elongisporus
-Lomentospora
 Lophomonas blattarum
 Lophotrichus
 Lucilia
-Lujo
 Luteibacter anthropi
 Lysinibacillus
-Macracanthorhynchus
-Macrophomina phaseolina
 Madariaga virus
 Mageeibacillus indolicus
 Magnusiomyces
@@ -302,21 +228,15 @@ Mammomonogamus laryngeus
 Massilia
 Meanderella rijsii
 Medicopsis romeroi
-Megaselia scalaris
 Megasphaera
 Megasporoporia setulosa
-Menangle
 Metagonimus yokogawai
 Metapneumovirus humano (hMPV)
-Metarhizium anisopliae
-Methanobrevibacter
 Methylorubrum
 Metorchis
 Micobacterias de crecimiento rápido
 Microascus
-Microbacterium
 Micrococcus
-Microcystis
 Microsphaeropsis
 Microsporidia
 Mirmecridium schulzeri
@@ -353,22 +273,16 @@ Neoehrlichia mikurensis
 Neofusicoccum mangiferae
 Neorickettsia sennetsu
 Neosartorya
-Neoscytalidium
 Neurospora sitophila
 Nigrograna mackinnonii
 Nigrospora sphaerica
 Nipah virus (NiV)
-Nocardiopsis
-Nodulisporium
 Nonomuraea
 Norovirus
 Novosphingobium
 Oblitimonas alkaliphila
 Odoribacter splanchnicus
-Oesophagostomum
-Oestrus ovis
 Olsenella
-Onychocola
 Ophidascaris robertsi
 Orbivirus
 Oribacterium sinus
@@ -380,7 +294,6 @@ Paenalcaligenes hominis
 Paenarthrobacter
 Pandoraea
 Pannonibacter phragmitetus
-Parabacteroides
 Parachlamydia acanthamoebae
 Paracoccus
 Paraconiothyrium
@@ -392,46 +305,29 @@ Parechovirus humano
 Parenemella
 Parvimonas micra
 Parvovirus humano 4/5
-Pediococcus
 Pegivirus
 Pelecitus
 Penidiella
-Peniophora incarnata
 Peptoniphilus
 Peptostreptococcus
-Perenniporia
 Peribacillus
 Pestalotiopsis clavispora
 Peyronellaea gardeniae
-Peziza
 Pfiesteria piscicida
-Phaeoacremonium
 Phaeoisaria clematidis
 Phagicola
-Phanerochaete
 Phaneropsolus
-Phellinus
 Phialemoniopsis
-Phialemonium
-Philophthalmus
 Phocaeicola
 Phoma
-Phomopsis
 Phormia regina
-Photobacterium damselae
-Photorhabdus
-Phytobacter
-Pichia
 Picobirnavirus humano
 Piophila casei
-Pithomyces
 Plagiorchis
 Plasmodium knowlesi
 Plasmodium spp
 Pleurostoma
 Pleurostomophora
-Pluralibacter
-Podospora
 Polycytella hominis
 Porocephalus
 Porphyromonas
@@ -446,8 +342,6 @@ Pseudochrobactrum asaccharolyticum
 Pseudocitrobacter
 Pseudoclavibacter
 Pseudoflavonifractor capillosus
-Pseudoglutamicibacter
-Pseudonitzschia
 Pseudostreptobacillus hongkongensis
 Pseudoterranova
 Pseudozyma
@@ -456,23 +350,17 @@ Purpureocillium
 Quaranfil quaranjavirus
 Rabia, virus de la
 Raillietiella hemidactyli
-Raillietina
-Raoultella
 Rarimicrobium hominis
-Rasamsonia
 Rhabditis
 Rhabdochlamydia porcellionis
-Rhinocladiella
 Rhinoestrus purpureus
 Rhizobium radiobacter
 Rhodosporidiobolus
-Rhytidhysteron
 Rickettsia conorii
 Rickettsia spp
 Rinovirus humano
 Robinsoniella peoriensis
 Rocahepevirus ratti
-Roseomonas
 Roussoella
 Rubéola
 Ruminococcus gnavus
@@ -483,10 +371,8 @@ Salivirus
 Sapovirus
 Sarcodexia lambens
 Sarcophaga
-Sarocladium
 Scandinavium
 Scardovia
-Scenopinus fenestralis
 Scheffersomyces spartinae
 Schistosoma
 Sciscionella marina
@@ -499,9 +385,6 @@ Slackia exigua
 Sneathia
 Solobacterium moorei
 Spelotrema brevicaeca
-Sphingobacterium
-Sphingobium
-Sphingomonas
 Spirillum minus
 Spirometra
 Spiroplasma
@@ -510,11 +393,9 @@ Sporobolomyces
 Sporolactobacillus laevolacticus
 Sporopachydermia cereana
 Sporosarcina newyorkensis
-Stachybotrys
 Staphylococcus lugdunensis
 Staphylococcus otros plasmocoagulasa-positiva
 Staphylococcus plasmocoagulasa-negativa (ECN)
-Stemphylium
 Streptococcus agalactiae
 Streptococcus gallolyticus
 Streptococcus grupo viridans
@@ -524,14 +405,12 @@ Subramaniula asteroides
 Sutterella wadsworthensis
 Suttonella indologenes
 Syncephalastrum racemosum
-Tannerella forsythia
 Tatumella
 Telmatoscopus albipunctatus
 Tepidimonas arfidensi
 Ternidens deminutus
 Terrisporobacter
 Tetratrichomonas
-Thelazia
 Thermophilibacter provencensis
 Thielavia
 Thyridium oculorum
@@ -539,18 +418,14 @@ Tilletiopsis minor
 Tintelnotia destructans
 Tioman
 Tissierella
-Torovirus humano
 Torque teno virus (TTV)
 Toscana, virus (TOSV)
 Toxicocladosporium
-Trametes
 Triadelphia
 Trichomonas hominis
 Tritirachium oryzae
-Tropheryma whipplei
 Tropicoporus tropicalis
 Trueperella
-Tsukamurella
 Tunga penetrans
 Turicella otitidis
 Turicibacter sanguinis
@@ -560,25 +435,19 @@ Vandammella animalimorsus
 Varibaculum
 Veronaea botryosa
 Versteria rafei
-Viruela de los monos, virus (MPXV)
 Viruela humana, virus
 Virus Chandipura (CHPV)
 Virus del síndrome de la fiebre grave con trombocitopenia (SFTSV)
-Virus Heartland (HRTV)
 Virus Powassan (POWV)
 Volvariella volvacea
 Waddlia chondrophila
-Wallemia sebi
 Weeksella
-Weissella
 Wickerhamiella
 Wickerhamomyces anomalus
 Williamsia
 Wohlfahrtia
 Wohlfahrtiimonas chitiniclastica
-Xylaria
 Yaba monkey tumour virus y yaba-like disease
-Yarrowia lipolytica
 Yersinia pestis
 Yersinia spp
 Yokenella regensburgei

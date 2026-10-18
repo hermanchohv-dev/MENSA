@@ -1,0 +1,14 @@
+{
+  "wikipedia_images_added": 205,
+  "new_records_with_images": 131,
+  "records_with_images": 435,
+  "image_placements": 621,
+  "clinical_database_unchanged": true,
+  "previous_416_images_and_credits_preserved": true,
+  "all_images_decoded_with_expected_dimensions": true,
+  "embedded_sha256_verified": true,
+  "search_filter_selector_zoom_escape_and_source_caption_verified": true,
+  "offline_photo_navigation_verified": true,
+  "external_requests": [],
+  "javascript_errors": []
+}
