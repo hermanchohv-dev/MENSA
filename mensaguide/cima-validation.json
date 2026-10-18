@@ -1,0 +1,15 @@
+{
+  "drug_records": 275,
+  "brand_links": 512,
+  "links_using_existing_registration": 242,
+  "clinical_dataset_unchanged": true,
+  "images_and_credits_unchanged": true,
+  "known_registration_links_verified_against_embedded_ft_references": true,
+  "brand_search_urls_encoded": true,
+  "header_and_presentation_icons_verified": true,
+  "commercial_search_mode_favorites_and_non_drug_records_verified": true,
+  "external_navigation_new_tab": true,
+  "javascript_errors": [],
+  "external_requests_during_use": [],
+  "cima_online_destination_validation": "Not performed: environment proxy blocks CIMA (403). URLs checked locally, registrations derived from pre-existing source references."
+}
