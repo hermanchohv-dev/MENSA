@@ -1,5 +1,7 @@
 # MensaGuide para navegador — versión web 5
 
+**Última descarga:** [MensaGuide-escritorio-iconos.html](MensaGuide-escritorio-iconos.html), versión ligera con CIMA e iconos de categoría en el menú lateral. Pulsa **Download raw file** (aproximadamente 45 MB). Detalles en [ICONOS-MENU.md](ICONOS-MENU.md).
+
 **Última descarga ligera con CIMA:** [MensaGuide-escritorio-ligero-CIMA.html](MensaGuide-escritorio-ligero-CIMA.html), con iconos **FT/P ↗** junto a las marcas. Pulsa **Download raw file** (44,9 MB). Uso y alcance en [ENLACES-CIMA.md](ENLACES-CIMA.md).
 
 **Descarga ligera recomendada:** [MensaGuide-escritorio-ligero.html](MensaGuide-escritorio-ligero.html), **44,9 MB** (54 % menos), con las mismas 621 referencias fotográficas en 435 fichas. Pulsa **Download raw file**. Detalles de compresión y verificación en [VERSION-LIGERA.md](VERSION-LIGERA.md).
