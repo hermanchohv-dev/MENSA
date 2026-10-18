@@ -1,0 +1,15 @@
+{
+  "original_app_sqlite_sha256": "188b434591918c12d2b8c106565f125fbcdc1d92230b091c94639a26db6479f6",
+  "native_identifier": "child_vac_cal",
+  "original_cells": 55,
+  "rendered_vaccine_rows": 10,
+  "age_columns": 15,
+  "original_nonempty_cells_verified": 55,
+  "original_notes": 11,
+  "notes_expand_collapse_and_print_restore": true,
+  "offline_calendar_verified": true,
+  "clinical_database_and_images_unchanged": true,
+  "drug_cima_links_and_12_menu_icons_preserved": true,
+  "no_desktop_horizontal_overflow": true,
+  "javascript_errors": []
+}

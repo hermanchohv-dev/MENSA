@@ -1,0 +1,281 @@
+{
+  "source": "MensaGuide.app/Contents/Resources/data.sqlite",
+  "table": "child_vac_cal",
+  "cells": [
+    [
+      0,
+      1,
+      "$2 m$"
+    ],
+    [
+      0,
+      2,
+      "$3 m$"
+    ],
+    [
+      0,
+      3,
+      "$4 m$"
+    ],
+    [
+      0,
+      4,
+      "$5 m$"
+    ],
+    [
+      0,
+      5,
+      "$11 m$"
+    ],
+    [
+      0,
+      6,
+      "$12 m$"
+    ],
+    [
+      0,
+      7,
+      "$15 m$"
+    ],
+    [
+      0,
+      8,
+      "$3 a$"
+    ],
+    [
+      0,
+      9,
+      "$6 a$"
+    ],
+    [
+      0,
+      10,
+      "$12 a$"
+    ],
+    [
+      0,
+      11,
+      "$14 a$"
+    ],
+    [
+      0,
+      12,
+      "$40 a$"
+    ],
+    [
+      0,
+      13,
+      "$60 a$"
+    ],
+    [
+      0,
+      14,
+      "$65 a$"
+    ],
+    [
+      0,
+      15,
+      "$Emb$"
+    ],
+    [
+      1,
+      0,
+      "$Vacuna hexavalente​$[$Vacuna hexavalente$: difteria, tétanos, tosferina, poliomielitis, *H⠄influenzae* b, VHB.]"
+    ],
+    [
+      1,
+      1,
+      "✓"
+    ],
+    [
+      1,
+      3,
+      "✓"
+    ],
+    [
+      1,
+      5,
+      "✓"
+    ],
+    [
+      1,
+      9,
+      "[$DTPa$ (difteria, tétanos, tos ferina) y $poliomielitis$.]"
+    ],
+    [
+      1,
+      11,
+      "[$dT$ (vacuna con carga baja de toxoide diftérico).]"
+    ],
+    [
+      1,
+      12,
+      "[$dT$ (vacuna con carga baja de toxoide diftérico).]"
+    ],
+    [
+      1,
+      14,
+      "[$dT$ (vacuna con carga baja de toxoide diftérico).]"
+    ],
+    [
+      1,
+      15,
+      "[$DTPa$ (difteria, tétanos, tos ferina).]"
+    ],
+    [
+      2,
+      0,
+      "$Neumococo conjugada$"
+    ],
+    [
+      2,
+      1,
+      "✓"
+    ],
+    [
+      2,
+      3,
+      "✓"
+    ],
+    [
+      2,
+      5,
+      "✓"
+    ],
+    [
+      2,
+      14,
+      "[Vacuna antineumocócica 23V.]"
+    ],
+    [
+      3,
+      0,
+      "$Meningitis C$"
+    ],
+    [
+      3,
+      3,
+      "✓"
+    ],
+    [
+      3,
+      6,
+      "✓"
+    ],
+    [
+      3,
+      10,
+      "[$Meningits tetravalente conjugada$ (*N⠄meningitidis* serogrupos A, C, W, Y).]"
+    ],
+    [
+      4,
+      0,
+      "$Triple vírica$[$Triple vírica$ (sarampión, rubéola, parotiditis).]"
+    ],
+    [
+      4,
+      6,
+      "✓"
+    ],
+    [
+      4,
+      8,
+      "✓"
+    ],
+    [
+      5,
+      0,
+      "$VHA$"
+    ],
+    [
+      5,
+      7,
+      "✓"
+    ],
+    [
+      5,
+      9,
+      "✓"
+    ],
+    [
+      6,
+      0,
+      "$Varicela$"
+    ],
+    [
+      6,
+      7,
+      "✓"
+    ],
+    [
+      6,
+      8,
+      "✓"
+    ],
+    [
+      7,
+      0,
+      "$Papilomavirus$"
+    ],
+    [
+      7,
+      10,
+      "[Sólo en niñas.]"
+    ],
+    [
+      8,
+      0,
+      "$Gripe$"
+    ],
+    [
+      8,
+      13,
+      "[Periodicidad anual a partir de los 60 años.]"
+    ],
+    [
+      8,
+      14,
+      "✓"
+    ],
+    [
+      8,
+      15,
+      "✓"
+    ],
+    [
+      9,
+      0,
+      "$Rotavirus$"
+    ],
+    [
+      9,
+      1,
+      "✓"
+    ],
+    [
+      9,
+      2,
+      "✓"
+    ],
+    [
+      10,
+      0,
+      "$Meningococo B$"
+    ],
+    [
+      10,
+      2,
+      "✓"
+    ],
+    [
+      10,
+      4,
+      "✓"
+    ],
+    [
+      10,
+      6,
+      "✓"
+    ]
+  ]
+}
