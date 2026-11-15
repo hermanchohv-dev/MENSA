@@ -494,5 +494,43 @@ mobileEditionStyle.textContent=`
 document.head.append(mobileEditionStyle);
 measureHeader();
 
+// The mobile renal calculator is optional and starts hidden on each screen.
+const createRenalPanelBeforeMobileToggle=createRenalQuickPanel;
+createRenalQuickPanel=function(){
+ const wrapper=document.createElement('div');wrapper.className='renal-mobile-toggle';
+ const button=document.createElement('button');button.type='button';button.className='btn renal-mobile-button';
+ button.setAttribute('aria-expanded','false');button.setAttribute('aria-controls','mobile-renal-content');
+ button.textContent='+ Calcular filtrado glomerular';
+ const panel=createRenalPanelBeforeMobileToggle();panel.id='mobile-renal-content';panel.hidden=true;
+ button.onclick=()=>{
+  const open=panel.hidden;panel.hidden=!open;button.setAttribute('aria-expanded',String(open));
+  button.textContent=open?'− Ocultar calculadora renal':'+ Calcular filtrado glomerular';
+ };
+ wrapper.append(button,panel);return wrapper;
+};
+const renderBeforeMobileRenalToggle=render;
+render=function(){
+ renderBeforeMobileRenalToggle();
+ const toggle=main.querySelector('.renal-mobile-toggle'),toolbar=main.querySelector('.toolbar');
+ if(toggle&&toolbar)toolbar.before(toggle);
+};
+const detailBeforeMobileRenalToggle=detail;
+detail=function(c,id){
+ detailBeforeMobileRenalToggle(c,id);
+ const toggle=main.querySelector('.renal-mobile-toggle'),intro=main.querySelector('.renal-detail-intro');
+ if(toggle&&intro)intro.append(toggle);
+};
+const mobileRenalToggleStyle=document.createElement('style');
+mobileRenalToggleStyle.textContent=`
+.renal-search-row,.renal-detail-row{grid-template-columns:minmax(0,1fr)}
+.renal-mobile-toggle{margin:10px 0 14px;min-width:0}
+.renal-mobile-button{display:inline-flex;align-items:center;text-align:left;min-height:44px;padding:8px 12px;font-size:14px;font-weight:700;color:var(--teal);border-color:#a8cbd4;background:linear-gradient(135deg,#f5fbfc,#e0eff3);touch-action:manipulation}
+.renal-mobile-button:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
+.renal-mobile-toggle>.renal-quick{margin:10px 0 0;max-width:480px;width:100%}
+.renal-mobile-toggle>.renal-quick[hidden]{display:none!important}
+@media print{.renal-mobile-toggle{display:none}}
+`;
+document.head.append(mobileRenalToggleStyle);
+
 function route(){let hash=decodeURIComponent(location.hash.slice(1));let [c,id]=hash.split(':');if(!labels[c])c='antimicrobianos';if(c!==cat){query='';limit=80}if(id){detail(c,id)}else{cat=c;render()}}window.addEventListener('hashchange',route);route();
 </script></body></html>
