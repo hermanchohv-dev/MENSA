@@ -435,6 +435,12 @@ depthStyle.textContent=`
 @media(max-width:1000px){.renal-detail-row{grid-template-columns:1fr}.renal-detail-row .renal-quick{max-width:480px}}
 @media print{:is(nav,.item,.panel,.drug-section,.section-index,.renal-quick,.notice,.empty,.microbe-figure,.comparison-panel,.btn,.star){box-shadow:none}.renal-detail-row{display:block}}
 `;
+depthStyle.textContent+=`
+.panel.drug-section[data-field="D_RENAL_FAILURE"]{background:linear-gradient(135deg,#e0f0f1,#cce4e9);border:1px solid #74a8b2;border-left:6px solid var(--teal);color:#162c40}
+.panel.drug-section[data-field="D_RENAL_FAILURE"]>summary{background:linear-gradient(120deg,#c8e5e8,#d9ecef);color:#15535d;border-radius:10px}
+.panel.drug-section[data-field="D_RENAL_FAILURE"]>summary h2{color:#15535d;font-weight:800}
+@media print{.panel.drug-section[data-field="D_RENAL_FAILURE"]{border:2px solid #15535d;border-left-width:6px;print-color-adjust:exact;-webkit-print-color-adjust:exact}}
+`;
 document.head.append(depthStyle);
 const detailBeforeRenalQuick=detail;
 detail=function(c,id){
